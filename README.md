@@ -1,6 +1,6 @@
-# libs
+# 个人知识库
 
-> 个人知识库
+> 将这几年整理的文件又重新分类整理了一下，方便查看。目录介绍：
 
 - Database: 数据库相关文章
 - EOF: 网站前端相关文章，包含HTML、CSS、Javascript、NodeJs、AngularJs、jQuery等。
