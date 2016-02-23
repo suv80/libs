@@ -55,3 +55,18 @@
 - [200个纯CSS3写的图标 支持复制代码](https://github.com/limeng0403/libs/blob/master/EOF/200%E4%B8%AA%E7%BA%AFCSS3%E5%86%99%E7%9A%84%E5%9B%BE%E6%A0%87%20%E6%94%AF%E6%8C%81%E5%A4%8D%E5%88%B6%E4%BB%A3%E7%A0%81.md)
 - [12种不宜使用的Javascript语法](https://github.com/limeng0403/libs/blob/master/EOF/12%E7%A7%8D%E4%B8%8D%E5%AE%9C%E4%BD%BF%E7%94%A8%E7%9A%84Javascript%E8%AF%AD%E6%B3%95.md)
 - [12个CSS高级技巧汇总](https://github.com/limeng0403/libs/blob/master/EOF/12%E4%B8%AACSS%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7%E6%B1%87%E6%80%BB.md)
+
+**Linux**
+
+- [让ubuntu 终端显示英文提示，而桌面环境显示中文的方法](https://github.com/limeng0403/libs/blob/master/Linux/%E8%AE%A9ubuntu%20%E7%BB%88%E7%AB%AF%E6%98%BE%E7%A4%BA%E8%8B%B1%E6%96%87%E6%8F%90%E7%A4%BA%EF%BC%8C%E8%80%8C%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E7%9A%84%E6%96%B9%E6%B3%95.md)
+- [解决g++command not found](https://github.com/limeng0403/libs/blob/master/Linux/%E8%A7%A3%E5%86%B3g%2B%2Bcommand%20not%20found.md)
+- [安装VirtualBox增强功能（命令行）](https://github.com/limeng0403/libs/blob/master/Linux/%E5%AE%89%E8%A3%85VirtualBox%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD%EF%BC%88%E5%91%BD%E4%BB%A4%E8%A1%8C%EF%BC%89.md)
+- [使用git pull文件时和本地文件冲突怎么办？](https://github.com/limeng0403/libs/blob/master/Linux/%E4%BD%BF%E7%94%A8git%20pull%E6%96%87%E4%BB%B6%E6%97%B6%E5%92%8C%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md)
+- [使用Git时，怎么忽略不想上传的文件](https://github.com/limeng0403/libs/blob/master/Linux/%E4%BD%BF%E7%94%A8Git%E6%97%B6%EF%BC%8C%E6%80%8E%E4%B9%88%E5%BF%BD%E7%95%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E4%BC%A0%E7%9A%84%E6%96%87%E4%BB%B6.md)
+- [linux下查看和添加PATH环境变量](https://github.com/limeng0403/libs/blob/master/Linux/linux%E4%B8%8B%E6%9F%A5%E7%9C%8B%E5%92%8C%E6%B7%BB%E5%8A%A0PATH%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.md)
+- [linux 下如何启动SVN服务](https://github.com/limeng0403/libs/blob/master/Linux/linux%20%E4%B8%8B%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8SVN%E6%9C%8D%E5%8A%A1.md)
+- [SVN的Hooks功能——强制添加注释](https://github.com/limeng0403/libs/blob/master/Linux/SVN%E7%9A%84Hooks%E5%8A%9F%E8%83%BD%E2%80%94%E2%80%94%E5%BC%BA%E5%88%B6%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A.md)
+- [Mac中自定义文件夹中文名](https://github.com/limeng0403/libs/blob/master/Linux/Mac%E4%B8%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%AD%E6%96%87%E5%90%8D.md)
+- [How can i use iptables on centos 7](https://github.com/limeng0403/libs/blob/master/Linux/How%20can%20i%20use%20iptables%20on%20centos%207.md)
+- [CentOS6.6升级gcc4.8教程](https://github.com/limeng0403/libs/blob/master/Linux/CentOS6.6%E5%8D%87%E7%BA%A7gcc4.8%E6%95%99%E7%A8%8B.md)
+- 
