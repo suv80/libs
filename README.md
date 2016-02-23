@@ -15,6 +15,9 @@
 
 **EOF**
 
+- [Angularjs知识点2](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
+- [Angularjs知识点1](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
+- [AngularJS快速入门指南01：介绍](https://github.com/limeng0403/libs/blob/master/EOF/AngularJS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%9701%EF%BC%9A%E4%BB%8B%E7%BB%8D.md)
 - [重写js中的window.alert函数](https://github.com/limeng0403/libs/blob/master/EOF/%E9%87%8D%E5%86%99js%E4%B8%AD%E7%9A%84window.alert%E5%87%BD%E6%95%B0.md)
 - [轻量级Modal模态框插件cta.js](https://github.com/limeng0403/libs/blob/master/EOF/%E8%BD%BB%E9%87%8F%E7%BA%A7Modal%E6%A8%A1%E6%80%81%E6%A1%86%E6%8F%92%E4%BB%B6cta.js.md)
 - [资源贴.md](https://github.com/limeng0403/libs/blob/master/EOF/%E8%B5%84%E6%BA%90%E8%B4%B4.md)
@@ -46,9 +49,6 @@
 - [JavaScript总结几个提高性能知识点](https://github.com/limeng0403/libs/blob/master/EOF/JavaScript%E6%80%BB%E7%BB%93%E5%87%A0%E4%B8%AA%E6%8F%90%E9%AB%98%E6%80%A7%E8%83%BD%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 - [HTML5可互动的可视化图表js插件库](https://github.com/limeng0403/libs/blob/master/EOF/HTML5%E5%8F%AF%E4%BA%92%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E5%9B%BE%E8%A1%A8js%E6%8F%92%E4%BB%B6%E5%BA%93.md)
 - [CSS“隐藏”元素的几种方法的对比](https://github.com/limeng0403/libs/blob/master/EOF/CSS%E2%80%9C%E9%9A%90%E8%97%8F%E2%80%9D%E5%85%83%E7%B4%A0%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95%E7%9A%84%E5%AF%B9%E6%AF%94.md)
-- [Angularjs知识点2](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
-- [Angularjs知识点1](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
-- [AngularJS快速入门指南01：介绍](https://github.com/limeng0403/libs/blob/master/EOF/AngularJS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%9701%EF%BC%9A%E4%BB%8B%E7%BB%8D.md)
 - [7个你可能不认识的CSS单位](https://github.com/limeng0403/libs/blob/master/EOF/7%E4%B8%AA%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E7%9A%84CSS%E5%8D%95%E4%BD%8D.md)
 - [5个经典的前端面试问题](https://github.com/limeng0403/libs/blob/master/EOF/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)
 - [30行代码实现JavaScript中的MVC](https://github.com/limeng0403/libs/blob/master/EOF/30%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0JavaScript%E4%B8%AD%E7%9A%84MVC.md)
