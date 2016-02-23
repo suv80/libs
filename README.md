@@ -15,8 +15,8 @@
 
 **EOF**
 
-- [Angularjs知识点2](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
-- [Angularjs知识点1](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
+- [AngularJS知识点2](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
+- [AngularJS知识点1](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
 - [AngularJS快速入门指南01：介绍](https://github.com/limeng0403/libs/blob/master/EOF/AngularJS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%9701%EF%BC%9A%E4%BB%8B%E7%BB%8D.md)
 - [重写js中的window.alert函数](https://github.com/limeng0403/libs/blob/master/EOF/%E9%87%8D%E5%86%99js%E4%B8%AD%E7%9A%84window.alert%E5%87%BD%E6%95%B0.md)
 - [轻量级Modal模态框插件cta.js](https://github.com/limeng0403/libs/blob/master/EOF/%E8%BD%BB%E9%87%8F%E7%BA%A7Modal%E6%A8%A1%E6%80%81%E6%A1%86%E6%8F%92%E4%BB%B6cta.js.md)
