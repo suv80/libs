@@ -15,12 +15,12 @@
 
 **EOF**
 
-- [AngularJS知识点2](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
-- [AngularJS知识点1](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
+- [AngularJS知识点2-ng-show,ng-hide,ng-switch](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
+- [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
 - [AngularJS快速入门指南01：介绍](https://github.com/limeng0403/libs/blob/master/EOF/AngularJS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%9701%EF%BC%9A%E4%BB%8B%E7%BB%8D.md)
 - [重写js中的window.alert函数](https://github.com/limeng0403/libs/blob/master/EOF/%E9%87%8D%E5%86%99js%E4%B8%AD%E7%9A%84window.alert%E5%87%BD%E6%95%B0.md)
 - [轻量级Modal模态框插件cta.js](https://github.com/limeng0403/libs/blob/master/EOF/%E8%BD%BB%E9%87%8F%E7%BA%A7Modal%E6%A8%A1%E6%80%81%E6%A1%86%E6%8F%92%E4%BB%B6cta.js.md)
-- [资源贴.md](https://github.com/limeng0403/libs/blob/master/EOF/%E8%B5%84%E6%BA%90%E8%B4%B4.md)
+- [资源贴](https://github.com/limeng0403/libs/blob/master/EOF/%E8%B5%84%E6%BA%90%E8%B4%B4.md)
 - [记一次淘宝首页奇葩的渲染问题](https://github.com/limeng0403/libs/blob/master/EOF/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%B7%98%E5%AE%9D%E9%A6%96%E9%A1%B5%E5%A5%87%E8%91%A9%E7%9A%84%E6%B8%B2%E6%9F%93%E9%97%AE%E9%A2%98.md)
 - [解决IE下a标签点击有虚线边框的问题](https://github.com/limeng0403/libs/blob/master/EOF/%E8%A7%A3%E5%86%B3IE%E4%B8%8Ba%E6%A0%87%E7%AD%BE%E7%82%B9%E5%87%BB%E6%9C%89%E8%99%9A%E7%BA%BF%E8%BE%B9%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98.md)
 - [网页字体设置你了解吗](https://github.com/limeng0403/libs/blob/master/EOF/%E7%BD%91%E9%A1%B5%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE%E4%BD%A0%E4%BA%86%E8%A7%A3%E5%90%97.md)
