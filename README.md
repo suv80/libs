@@ -69,7 +69,25 @@
 - [Mac中自定义文件夹中文名](https://github.com/limeng0403/libs/blob/master/Linux/Mac%E4%B8%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%AD%E6%96%87%E5%90%8D.md)
 - [How can i use iptables on centos 7](https://github.com/limeng0403/libs/blob/master/Linux/How%20can%20i%20use%20iptables%20on%20centos%207.md)
 - [CentOS6.6升级gcc4.8教程](https://github.com/limeng0403/libs/blob/master/Linux/CentOS6.6%E5%8D%87%E7%BA%A7gcc4.8%E6%95%99%E7%A8%8B.md)
+
+**Other** 
+
 - [糟糕程序员的编程风格](https://github.com/limeng0403/libs/blob/master/Other/%E7%B3%9F%E7%B3%95%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC.md)
 - [程序员累了怎么办？](https://github.com/limeng0403/libs/blob/master/Other/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B4%AF%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md)
 - [毁灭程序员的15个障碍](https://github.com/limeng0403/libs/blob/master/Other/%E6%AF%81%E7%81%AD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8415%E4%B8%AA%E9%9A%9C%E7%A2%8D.md)
 - [俞敏洪：我和马云就差了8个字](https://github.com/limeng0403/libs/blob/master/Other/%E4%BF%9E%E6%95%8F%E6%B4%AA%EF%BC%9A%E6%88%91%E5%92%8C%E9%A9%AC%E4%BA%91%E5%B0%B1%E5%B7%AE%E4%BA%868%E4%B8%AA%E5%AD%97.md)
+
+
+**PHP**
+
+- [跨域文件上传解决方案](https://github.com/limeng0403/libs/blob/master/PHP/%E8%B7%A8%E5%9F%9F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+- [四舍五不入保留小数位](https://github.com/limeng0403/libs/blob/master/PHP/%E5%9B%9B%E8%88%8D%E4%BA%94%E4%B8%8D%E5%85%A5%E4%BF%9D%E7%95%99%E5%B0%8F%E6%95%B0%E4%BD%8D.md)
+- [全新PHP框架首次发布，让我们告别php-fpm吧](https://github.com/limeng0403/libs/blob/master/PHP/%E5%85%A8%E6%96%B0PHP%E6%A1%86%E6%9E%B6%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%EF%BC%8C%E8%AE%A9%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%ABphp-fpm%E5%90%A7.md)
+- [PHP获取真实的图片类型](https://github.com/limeng0403/libs/blob/master/PHP/PHP%E8%8E%B7%E5%8F%96%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%9B%BE%E7%89%87%E7%B1%BB%E5%9E%8B.md)
+- [PHP获取IP地址](https://github.com/limeng0403/libs/blob/master/PHP/PHP%E8%8E%B7%E5%8F%96IP%E5%9C%B0%E5%9D%80.md)
+- [PHP的CI框架集成Smarty的最佳方式](https://github.com/limeng0403/libs/blob/master/PHP/PHP%E7%9A%84CI%E6%A1%86%E6%9E%B6%E9%9B%86%E6%88%90Smarty%E7%9A%84%E6%9C%80%E4%BD%B3%E6%96%B9%E5%BC%8F.md)
+- [PHP根据流创建缩略图片及要求图片](https://github.com/limeng0403/libs/blob/master/PHP/PHP%E6%A0%B9%E6%8D%AE%E6%B5%81%E5%88%9B%E5%BB%BA%E7%BC%A9%E7%95%A5%E5%9B%BE%E7%89%87%E5%8F%8A%E8%A6%81%E6%B1%82%E5%9B%BE%E7%89%87.md)
+- [PHP日期相关知识](https://github.com/limeng0403/libs/blob/master/PHP/PHP%E6%97%A5%E6%9C%9F%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86.md)
+- [CodeIgniter URL](https://github.com/limeng0403/libs/blob/master/PHP/CodeIgniter%20URL.md)
+- [Ci伪静态的开启](https://github.com/limeng0403/libs/blob/master/PHP/Ci%E4%BC%AA%E9%9D%99%E6%80%81%E7%9A%84%E5%BC%80%E5%90%AF.md)
+- [CI框架去除index.php的方法（apache）](https://github.com/limeng0403/libs/blob/master/PHP/CI%E6%A1%86%E6%9E%B6%E5%8E%BB%E9%99%A4index.php%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%88apache%EF%BC%89.md)
