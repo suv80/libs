@@ -15,6 +15,7 @@
 
 **EOF**
 
+- [Array.prototype.reduce()](https://github.com/limeng0403/libs/blob/master/EOF/Array.prototype.reduce().md)
 - [AngularJS知识点2-ng-show,ng-hide,ng-switch](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B92.md)
 - [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E7%9F%A5%E8%AF%86%E7%82%B91.md)
 - [AngularJS快速入门指南01：介绍](https://github.com/limeng0403/libs/blob/master/EOF/AngularJS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%9701%EF%BC%9A%E4%BB%8B%E7%BB%8D.md)
