@@ -15,6 +15,7 @@
 
 **EOF**
 
+- [Angularjs轻松实现表格按指定列排序](https://github.com/limeng0403/libs/blob/master/EOF/Angularjs%E8%BD%BB%E6%9D%BE%E5%AE%9E%E7%8E%B0%E8%A1%A8%E6%A0%BC%E6%8C%89%E6%8C%87%E5%AE%9A%E5%88%97%E6%8E%92%E5%BA%8F.md)
 - [使用JSON.Stringify](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BD%BF%E7%94%A8JSON.Stringify.md)
 - [了解Javascript传值机制](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BA%86%E8%A7%A3Javascript%E4%BC%A0%E5%80%BC%E6%9C%BA%E5%88%B6.md)
 - [Array.prototype.reduce()](https://github.com/limeng0403/libs/blob/master/EOF/Array.prototype.reduce().md)
