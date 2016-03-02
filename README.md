@@ -1,12 +1,6 @@
-> 将这几年整理的文件又重新分类整理了一下，方便查看。目录介绍：
+##知识库
 
-- Database: 数据库相关文章
-- EOF: 网站前端相关文章，包含HTML、CSS、Javascript、NodeJs、AngularJs、jQuery等。
-- Linux: Linux类操作系统相关文章
-- Other: 有关程序员生活、程序员人生、科技文摘等文章
-- PHP: PHP技术相关文件，包含PHP框架
-
-###EOF
+###前端开发
 
 标题|摘要|标签|
 :---|:---|:---|
@@ -67,7 +61,7 @@
 - [CI框架去除index.php的方法（apache）](https://github.com/limeng0403/libs/blob/master/PHP/CI%E6%A1%86%E6%9E%B6%E5%8E%BB%E9%99%A4index.php%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%88apache%EF%BC%89.md)
 
 
-###Database
+###数据库
 
 标题|摘要|标签|
 :---|:---|:---|
