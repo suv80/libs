@@ -34,14 +34,14 @@
 [开发者必须知道的HTML5十五大新特性](https://github.com/limeng0403/libs/blob/master/EOF/%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84HTML5%E5%8D%81%E4%BA%94%E5%A4%A7%E6%96%B0%E7%89%B9%E6%80%A7.md)|HTML5十五大新特性|html5|
 [前端开发指南](https://github.com/limeng0403/libs/blob/master/EOF/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.md)|前端开发技巧|javascript|
 [切片式图片切换效果](https://github.com/limeng0403/libs/blob/master/EOF/%E5%88%87%E7%89%87%E5%BC%8F%E5%9B%BE%E7%89%87%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C.md)|自己写的多图片切换效果|javascript css|
-- [减少HTTP请求(大型网站优化技术)](https://github.com/limeng0403/libs/blob/master/EOF/%E5%87%8F%E5%B0%91HTTP%E8%AF%B7%E6%B1%82(%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF).md)
-- [使用ajax和history.pushState无刷新改变页面URL](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BD%BF%E7%94%A8ajax%E5%92%8Chistory.pushState%E6%97%A0%E5%88%B7%E6%96%B0%E6%94%B9%E5%8F%98%E9%A1%B5%E9%9D%A2URL.md)
-- [人人必知的10个jQuery小技巧](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BA%BA%E4%BA%BA%E5%BF%85%E7%9F%A5%E7%9A%8410%E4%B8%AAjQuery%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
-- [prop和attr的区别](https://github.com/limeng0403/libs/blob/master/EOF/prop%E5%92%8Cattr%E7%9A%84%E5%8C%BA%E5%88%AB.md)
-- [nodejs+express](https://github.com/limeng0403/libs/blob/master/EOF/nodejs%2Bexpress.md)
-- [javascript深入理解js闭包](https://github.com/limeng0403/libs/blob/master/EOF/javascript%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3js%E9%97%AD%E5%8C%85.md)
-- [jQueryMobile笔记](https://github.com/limeng0403/libs/blob/master/EOF/jQueryMobile%E7%AC%94%E8%AE%B0.md)
-- [jQuery animate scrollTop not working in IE 7](https://github.com/limeng0403/libs/blob/master/EOF/jQuery%20animate%20scrollTop%20not%20working%20in%20IE%207.md)
+[减少HTTP请求(大型网站优化技术)](https://github.com/limeng0403/libs/blob/master/EOF/%E5%87%8F%E5%B0%91HTTP%E8%AF%B7%E6%B1%82(%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF).md)|网站优化方案|web-other|
+[使用ajax和history.pushState无刷新改变页面URL](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BD%BF%E7%94%A8ajax%E5%92%8Chistory.pushState%E6%97%A0%E5%88%B7%E6%96%B0%E6%94%B9%E5%8F%98%E9%A1%B5%E9%9D%A2URL.md)|ajax技巧|javascript|
+[人人必知的10个jQuery小技巧](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BA%BA%E4%BA%BA%E5%BF%85%E7%9F%A5%E7%9A%8410%E4%B8%AAjQuery%E5%B0%8F%E6%8A%80%E5%B7%A7.md)|jQuery技巧|jQuery|
+[prop和attr的区别](https://github.com/limeng0403/libs/blob/master/EOF/prop%E5%92%8Cattr%E7%9A%84%E5%8C%BA%E5%88%AB.md)|jQuery中的prop和attr的区别|jQuery|
+[nodejs+express](https://github.com/limeng0403/libs/blob/master/EOF/nodejs%2Bexpress.md)|nodejs的express框架搭建|nodejs express|
+[javascript深入理解js闭包](https://github.com/limeng0403/libs/blob/master/EOF/javascript%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3js%E9%97%AD%E5%8C%85.md)|闭包|javascript|
+[jQueryMobile笔记](https://github.com/limeng0403/libs/blob/master/EOF/jQueryMobile%E7%AC%94%E8%AE%B0.md)|jQueryMobile笔记|jQueryMobile|
+[jQuery animate scrollTop not working in IE 7](https://github.com/limeng0403/libs/blob/master/EOF/jQuery%20animate%20scrollTop%20not%20working%20in%20IE%207.md)|jQuery锚点滚动在IE下无作用的处理方案|jQuery|
 - [getJSON在PHP环境下实现跨域数据加载](https://github.com/limeng0403/libs/blob/master/EOF/getJSON%E5%9C%A8PHP%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD.md)
 - [expressjs 4.x增加对上传文件获取的支持](https://github.com/limeng0403/libs/blob/master/EOF/expressjs%204.x%E5%A2%9E%E5%8A%A0%E5%AF%B9%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%8E%B7%E5%8F%96%E7%9A%84%E6%94%AF%E6%8C%81.md)
 - [Unslider较完美支持bootstrap 3.3.0样式方案](https://github.com/limeng0403/libs/blob/master/EOF/Unslider%E8%BE%83%E5%AE%8C%E7%BE%8E%E6%94%AF%E6%8C%81bootstrap%203.3.0%E6%A0%B7%E5%BC%8F%E6%96%B9%E6%A1%88.md)
