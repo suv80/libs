@@ -71,30 +71,51 @@
 
 标题|摘要|标签|
 :---|:---|:---|
-[mongodb3.03开启认证](https://github.com/limeng0403/libs/blob/master/Database/mongodb3.03%E5%BC%80%E5%90%AF%E8%AE%A4%E8%AF%81.md)|mongodb3.03开启认证|mongodb|
-[mongoDB设置数据库并启动](https://github.com/limeng0403/libs/blob/master/Database/mongoDB%E8%AE%BE%E7%BD%AE%E6%95%B0%E6%8D%AE%E5%BA%93%E5%B9%B6%E5%90%AF%E5%8A%A8.md)|mongoDB设置数据库并启动|mongodb|
+[mongodb3.03开启认证][d2]|mongodb3.03开启认证|mongodb|
+[mongoDB设置数据库并启动][d1]|mongoDB设置数据库并启动|mongodb|
+
+[d2]:https://github.com/limeng0403/libs/blob/master/Database/mongodb3.03%E5%BC%80%E5%90%AF%E8%AE%A4%E8%AF%81.md
+[d1]:https://github.com/limeng0403/libs/blob/master/Database/mongoDB%E8%AE%BE%E7%BD%AE%E6%95%B0%E6%8D%AE%E5%BA%93%E5%B9%B6%E5%90%AF%E5%8A%A8.md
 
 ###Linux
 
 标题|摘要|标签|
 :---|:---|:---|
-[让ubuntu 终端显示英文提示，而桌面环境显示中文的方法](https://github.com/limeng0403/libs/blob/master/Linux/%E8%AE%A9ubuntu%20%E7%BB%88%E7%AB%AF%E6%98%BE%E7%A4%BA%E8%8B%B1%E6%96%87%E6%8F%90%E7%A4%BA%EF%BC%8C%E8%80%8C%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E7%9A%84%E6%96%B9%E6%B3%95.md)|让ubuntu 终端显示英文提示，而桌面环境显示中文的方法|linux ubuntu|
-[解决g++command not found](https://github.com/limeng0403/libs/blob/master/Linux/%E8%A7%A3%E5%86%B3g%2B%2Bcommand%20not%20found.md)|解决g++command not found|linux centos gcc|
-[安装VirtualBox增强功能（命令行）](https://github.com/limeng0403/libs/blob/master/Linux/%E5%AE%89%E8%A3%85VirtualBox%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD%EF%BC%88%E5%91%BD%E4%BB%A4%E8%A1%8C%EF%BC%89.md)|安装VirtualBox增强功能|vbox|
-[使用git pull文件时和本地文件冲突怎么办？](https://github.com/limeng0403/libs/blob/master/Linux/%E4%BD%BF%E7%94%A8git%20pull%E6%96%87%E4%BB%B6%E6%97%B6%E5%92%8C%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md)|使用git pull文件时和本地文件冲突怎么办？|git|
-[使用Git时，怎么忽略不想上传的文件](https://github.com/limeng0403/libs/blob/master/Linux/%E4%BD%BF%E7%94%A8Git%E6%97%B6%EF%BC%8C%E6%80%8E%E4%B9%88%E5%BF%BD%E7%95%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E4%BC%A0%E7%9A%84%E6%96%87%E4%BB%B6.md)|使用Git时，怎么忽略不想上传的文件|git|
-[linux下查看和添加PATH环境变量](https://github.com/limeng0403/libs/blob/master/Linux/linux%E4%B8%8B%E6%9F%A5%E7%9C%8B%E5%92%8C%E6%B7%BB%E5%8A%A0PATH%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.md)|linux下查看和添加PATH环境变量|linux|
-[linux 下如何启动SVN服务](https://github.com/limeng0403/libs/blob/master/Linux/linux%20%E4%B8%8B%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8SVN%E6%9C%8D%E5%8A%A1.md)|linux 下如何启动SVN服务|linux svn|
-[SVN的Hooks功能——强制添加注释](https://github.com/limeng0403/libs/blob/master/Linux/SVN%E7%9A%84Hooks%E5%8A%9F%E8%83%BD%E2%80%94%E2%80%94%E5%BC%BA%E5%88%B6%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A.md)|SVN的Hooks功能——强制添加注释|linux svn|
-[Mac中自定义文件夹中文名](https://github.com/limeng0403/libs/blob/master/Linux/Mac%E4%B8%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%AD%E6%96%87%E5%90%8D.md)|Mac中自定义文件夹中文名|macos
-[How can i use iptables on centos 7](https://github.com/limeng0403/libs/blob/master/Linux/How%20can%20i%20use%20iptables%20on%20centos%207.md)|iptables|linux|
-[CentOS6.6升级gcc4.8教程](https://github.com/limeng0403/libs/blob/master/Linux/CentOS6.6%E5%8D%87%E7%BA%A7gcc4.8%E6%95%99%E7%A8%8B.md)|CentOS6.6升级gcc4.8教程|linux centos gcc|
+[让ubuntu 终端显示英文提示，而桌面环境显示中文的方法][l11]|让ubuntu 终端显示英文提示，而桌面环境显示中文的方法|linux ubuntu|
+[解决g++command not found][l10]|解决g++command not found|linux centos gcc|
+[安装VirtualBox增强功能（命令行）][l9]|安装VirtualBox增强功能|vbox|
+[使用git pull文件时和本地文件冲突怎么办？][l8]|使用git pull文件时和本地文件冲突怎么办？|git|
+[使用Git时，怎么忽略不想上传的文件][l7]|使用Git时，怎么忽略不想上传的文件|git|
+[linux下查看和添加PATH环境变量][l6]|linux下查看和添加PATH环境变量|linux|
+[linux 下如何启动SVN服务][l5]|linux 下如何启动SVN服务|linux svn|
+[SVN的Hooks功能——强制添加注释][l4]|SVN的Hooks功能——强制添加注释|linux svn|
+[Mac中自定义文件夹中文名][l3]|Mac中自定义文件夹中文名|macos
+[How can i use iptables on centos 7][l2]|iptables|linux|
+[CentOS6.6升级gcc4.8教程][l1]|CentOS6.6升级gcc4.8教程|linux centos gcc|
+
+[l11]:https://github.com/limeng0403/libs/blob/master/Linux/%E8%AE%A9ubuntu%20%E7%BB%88%E7%AB%AF%E6%98%BE%E7%A4%BA%E8%8B%B1%E6%96%87%E6%8F%90%E7%A4%BA%EF%BC%8C%E8%80%8C%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E7%9A%84%E6%96%B9%E6%B3%95.md
+[l10]:https://github.com/limeng0403/libs/blob/master/Linux/%E8%A7%A3%E5%86%B3g%2B%2Bcommand%20not%20found.md
+[l9]:https://github.com/limeng0403/libs/blob/master/Linux/%E5%AE%89%E8%A3%85VirtualBox%E5%A2%9E%E5%BC%BA%E5%8A%9F%E8%83%BD%EF%BC%88%E5%91%BD%E4%BB%A4%E8%A1%8C%EF%BC%89.md
+[l8]:https://github.com/limeng0403/libs/blob/master/Linux/%E4%BD%BF%E7%94%A8git%20pull%E6%96%87%E4%BB%B6%E6%97%B6%E5%92%8C%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md
+[l7]:https://github.com/limeng0403/libs/blob/master/Linux/%E4%BD%BF%E7%94%A8Git%E6%97%B6%EF%BC%8C%E6%80%8E%E4%B9%88%E5%BF%BD%E7%95%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E4%BC%A0%E7%9A%84%E6%96%87%E4%BB%B6.md
+[l6]:https://github.com/limeng0403/libs/blob/master/Linux/linux%E4%B8%8B%E6%9F%A5%E7%9C%8B%E5%92%8C%E6%B7%BB%E5%8A%A0PATH%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.md
+[l5]:https://github.com/limeng0403/libs/blob/master/Linux/linux%20%E4%B8%8B%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8SVN%E6%9C%8D%E5%8A%A1.md
+[l4]:https://github.com/limeng0403/libs/blob/master/Linux/SVN%E7%9A%84Hooks%E5%8A%9F%E8%83%BD%E2%80%94%E2%80%94%E5%BC%BA%E5%88%B6%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A.md
+[l3]:https://github.com/limeng0403/libs/blob/master/Linux/Mac%E4%B8%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%AD%E6%96%87%E5%90%8D.md
+[l2]:https://github.com/limeng0403/libs/blob/master/Linux/How%20can%20i%20use%20iptables%20on%20centos%207.md
+[l1]:https://github.com/limeng0403/libs/blob/master/Linux/CentOS6.6%E5%8D%87%E7%BA%A7gcc4.8%E6%95%99%E7%A8%8B.md
 
 ###网络文摘
 
+- [俞敏洪：我和马云就差了8个字][o4]
+- [毁灭程序员的15个障碍][o3]
+- [程序员累了怎么办？][o2]
 - [糟糕程序员的编程风格][o1]
-- [程序员累了怎么办？](https://github.com/limeng0403/libs/blob/master/Other/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B4%AF%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md)
-- [毁灭程序员的15个障碍](https://github.com/limeng0403/libs/blob/master/Other/%E6%AF%81%E7%81%AD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8415%E4%B8%AA%E9%9A%9C%E7%A2%8D.md)
-- [俞敏洪：我和马云就差了8个字](https://github.com/limeng0403/libs/blob/master/Other/%E4%BF%9E%E6%95%8F%E6%B4%AA%EF%BC%9A%E6%88%91%E5%92%8C%E9%A9%AC%E4%BA%91%E5%B0%B1%E5%B7%AE%E4%BA%868%E4%B8%AA%E5%AD%97.md)
 
+[o4]:https://github.com/limeng0403/libs/blob/master/Other/%E4%BF%9E%E6%95%8F%E6%B4%AA%EF%BC%9A%E6%88%91%E5%92%8C%E9%A9%AC%E4%BA%91%E5%B0%B1%E5%B7%AE%E4%BA%868%E4%B8%AA%E5%AD%97.md
+[o3]:https://github.com/limeng0403/libs/blob/master/Other/%E6%AF%81%E7%81%AD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8415%E4%B8%AA%E9%9A%9C%E7%A2%8D.md
+[02]:https://github.com/limeng0403/libs/blob/master/Other/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B4%AF%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md
 [o1]:https://github.com/limeng0403/libs/blob/master/Other/%E7%B3%9F%E7%B3%95%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC.md
+
+
+
