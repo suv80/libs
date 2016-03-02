@@ -108,7 +108,7 @@
 
 [o4]:https://github.com/limeng0403/libs/blob/master/Other/%E4%BF%9E%E6%95%8F%E6%B4%AA%EF%BC%9A%E6%88%91%E5%92%8C%E9%A9%AC%E4%BA%91%E5%B0%B1%E5%B7%AE%E4%BA%868%E4%B8%AA%E5%AD%97.md
 [o3]:https://github.com/limeng0403/libs/blob/master/Other/%E6%AF%81%E7%81%AD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8415%E4%B8%AA%E9%9A%9C%E7%A2%8D.md
-[02]:https://github.com/limeng0403/libs/blob/master/Other/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B4%AF%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md
+[o2]:https://github.com/limeng0403/libs/blob/master/Other/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B4%AF%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md
 [o1]:https://github.com/limeng0403/libs/blob/master/Other/%E7%B3%9F%E7%B3%95%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC.md
 
 
