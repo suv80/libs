@@ -25,3 +25,4 @@ $jsonData=json_encode(array(
 echo $callback.'('.$jsonData.')';
 ```
 
+[微信扫一扫收藏本文](http://cli.im/api/qrcode)
