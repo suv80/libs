@@ -25,4 +25,3 @@ $jsonData=json_encode(array(
 echo $callback.'('.$jsonData.')';
 ```
 
-<a href="http://cli.im/api/qrcode" target="_blank">草料API</a>
