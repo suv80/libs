@@ -25,4 +25,4 @@ $jsonData=json_encode(array(
 echo $callback.'('.$jsonData.')';
 ```
 
-<a href="http://cli.im/api/qrcode">生成本页二维码</a>
+<a href="http://qr.topscan.com/api.php?text=https://github.com/limeng0403/libs/edit/master/EOF/getJSON%E5%9C%A8PHP%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD.md">生成本页二维码</a>
