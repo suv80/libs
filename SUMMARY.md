@@ -9,7 +9,7 @@
    * [AngularJS知识点2-ng-show,ng-hide,ng-switch](EOF/Angularjs知识点2.md)
    * [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](EOF/Angularjs知识点1.md)
    * [5个经典的前端面试问题](EOF/5个经典的前端面试问题.md)
-   * [重写js中的window.alert函数](/EOF/重写js中的window.alert函数.md)
+   * [重写js中的window.alert函数](EOF/重写js中的window.alert函数.md)
    * [轻量级Modal模态框插件cta.js](EOF/轻量级Modal模态框插件cta.js.md)
    * [记一次淘宝首页奇葩的渲染问题](EOF/记一次淘宝首页奇葩的渲染问题.md)
    * [解决IE下a标签点击有虚线边框的问题](EOF/解决IE下a标签点击有虚线边框的问题.md)
@@ -19,7 +19,7 @@
    * [深入理解HTML5标签](EOF/深入理解HTML5标签.md)
    * [开发者必须知道的HTML5十五大新特性](EOF/开发者必须知道的HTML5十五大新特性.md)
    * [前端开发指南](EOF/前端开发指南.md)
-* 数据库
+* [数据库](数据库.md)
    * [mongoDB设置数据库并启动](Database/mongoDB设置数据库并启动.md)
    * [mongodb3.03开启认证](Database/mongodb3.03开启认证.md)
 
