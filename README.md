@@ -8,7 +8,7 @@
 [使用JSON.Stringify](EOF/使用JSON.Stringify.md)|javascript json
 [了解Javascript传值机制](EOF/了解Javascript传值机制.md)|javascript
 [Array.prototype.reduce函数](EOF/Array.prototype.reduce函数.md)|javascript
-[AngularJS知识点2-ng-show,ng-hide,ng-switch](EOF/AngularJS知识点2.md)Angularjs
+[AngularJS知识点2-ng-show,ng-hide,ng-switch](EOF/AngularJS知识点2.md)|Angularjs
 [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](EOF/AngularJS知识点1.md)|Angularjs
 [重写js中的window.alert函数](EOF/重写js中的window.alert函数.md)|javascript bootstrap
 [轻量级Modal模态框插件cta.js](EOF/轻量级Modal模态框插件cta.js.md)|javascript
