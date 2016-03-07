@@ -7,7 +7,7 @@
 [Angularjs轻松实现表格按指定列排序](EOF/Angularjs轻松实现表格按指定列排序.md)|表格按指定列排序|Angularjs
 [使用JSON.Stringify](EOF/使用JSON.Stringify.md)|JSON.Stringify|javascript json
 [了解Javascript传值机制](EOF/了解Javascript传值机制.md)|Javascript传值机制|javascript
-[Array.prototype.reduce()](EOF/Array.prototype.reduce().md)|数组累加器|javascript
+[Array.prototype.reduce函数](EOF/Array.prototype.reduce函数.md)|数组累加器|javascript
 [AngularJS知识点2-ng-show,ng-hide,ng-switch](EOF/AngularJS知识点2.md)|ng-show,ng-hide,ng-switch|Angularjs
 [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](EOF/AngularJS知识点1.md)|ng-repeat,ng-class-odd,ng-class-even|Angularjs
 [重写js中的window.alert函数](EOF/重写js中的window.alert函数.md)|使用bs框架中的模态框替换原生的对话框|javascript bootstrap
@@ -22,29 +22,29 @@
 [前端开发指南](EOF/前端开发指南.md)|前端开发技巧|javascript
 [切片式图片切换效果](EOF/切片式图片切换效果.md)|自己写的多图片切换效果|javascript css
 [减少HTTP请求(大型网站优化技术)](EOF/减少HTTP请求(大型网站优化技术).md)|网站优化方案|web-other
-[使用ajax和history.pushState无刷新改变页面URL](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BD%BF%E7%94%A8ajax%E5%92%8Chistory.pushState%E6%97%A0%E5%88%B7%E6%96%B0%E6%94%B9%E5%8F%98%E9%A1%B5%E9%9D%A2URL.md)|ajax技巧|javascript
-[人人必知的10个jQuery小技巧](https://github.com/limeng0403/libs/blob/master/EOF/%E4%BA%BA%E4%BA%BA%E5%BF%85%E7%9F%A5%E7%9A%8410%E4%B8%AAjQuery%E5%B0%8F%E6%8A%80%E5%B7%A7.md)|jQuery技巧|jQuery
-[prop和attr的区别](https://github.com/limeng0403/libs/blob/master/EOF/prop%E5%92%8Cattr%E7%9A%84%E5%8C%BA%E5%88%AB.md)|jQuery中的prop和attr的区别|jQuery
-[nodejs+express](https://github.com/limeng0403/libs/blob/master/EOF/nodejs%2Bexpress.md)|nodejs的express框架搭建|nodejs express
-[javascript深入理解js闭包](https://github.com/limeng0403/libs/blob/master/EOF/javascript%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3js%E9%97%AD%E5%8C%85.md)|闭包|javascript
-[jQueryMobile笔记](https://github.com/limeng0403/libs/blob/master/EOF/jQueryMobile%E7%AC%94%E8%AE%B0.md)|jQueryMobile笔记|jQueryMobile|
-[jQuery animate scrollTop not working in IE 7](https://github.com/limeng0403/libs/blob/master/EOF/jQuery%20animate%20scrollTop%20not%20working%20in%20IE%207.md)|jQuery锚点滚动在IE下无作用的处理方案|jQuery|
-[getJSON在PHP环境下实现跨域数据加载](https://github.com/limeng0403/libs/blob/master/EOF/getJSON%E5%9C%A8PHP%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD.md)|getJSON在PHP环境下实现跨域数据加载|javascript php|
-[expressjs 4.x增加对上传文件获取的支持](https://github.com/limeng0403/libs/blob/master/EOF/expressjs%204.x%E5%A2%9E%E5%8A%A0%E5%AF%B9%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%8E%B7%E5%8F%96%E7%9A%84%E6%94%AF%E6%8C%81.md)|expressjs 4.x增加对上传文件获取的支持|nodejs express|
-[Unslider较完美支持bootstrap 3.3.0样式方案](https://github.com/limeng0403/libs/blob/master/EOF/Unslider%E8%BE%83%E5%AE%8C%E7%BE%8E%E6%94%AF%E6%8C%81bootstrap%203.3.0%E6%A0%B7%E5%BC%8F%E6%96%B9%E6%A1%88.md)|Unslider较完美支持bootstrap 3.3.0样式方案|bootstrap|
-[Nodejs模板引擎关联扩展名](https://github.com/limeng0403/libs/blob/master/EOF/Nodejs%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E5%85%B3%E8%81%94%E6%89%A9%E5%B1%95%E5%90%8D.md)|Nodejs模板引擎关联扩展名|nodejs|
-[Nodejs学习笔记3——基础路由的实现](https://github.com/limeng0403/libs/blob/master/EOF/Nodejs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B03%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E8%B7%AF%E7%94%B1%E7%9A%84%E5%AE%9E%E7%8E%B0.md)|Nodejs学习笔记3——基础路由的实现|nodejs|
-[Nodejs学习笔记2——文件上传](https://github.com/limeng0403/libs/blob/master/EOF/Nodejs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02%E2%80%94%E2%80%94%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md)|Nodejs学习笔记2——文件上传|nodejs|
-[Nodejs学习笔记1——socket.io模块、url模块](https://github.com/limeng0403/libs/blob/master/EOF/Nodejs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01%E2%80%94%E2%80%94socket.io%E6%A8%A1%E5%9D%97%E3%80%81url%E6%A8%A1%E5%9D%97.md)|socket.io模块、url模块|nodejs|
-[JavaScript总结几个提高性能知识点](https://github.com/limeng0403/libs/blob/master/EOF/JavaScript%E6%80%BB%E7%BB%93%E5%87%A0%E4%B8%AA%E6%8F%90%E9%AB%98%E6%80%A7%E8%83%BD%E7%9F%A5%E8%AF%86%E7%82%B9.md)|JavaScript总结几个提高性能知识点|javascript|
-[HTML5可互动的可视化图表js插件库](https://github.com/limeng0403/libs/blob/master/EOF/HTML5%E5%8F%AF%E4%BA%92%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E5%9B%BE%E8%A1%A8js%E6%8F%92%E4%BB%B6%E5%BA%93.md)|HTML5可互动的可视化图表js插件库|javascript html5|
-[CSS“隐藏”元素的几种方法的对比](https://github.com/limeng0403/libs/blob/master/EOF/CSS%E2%80%9C%E9%9A%90%E8%97%8F%E2%80%9D%E5%85%83%E7%B4%A0%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95%E7%9A%84%E5%AF%B9%E6%AF%94.md)|CSS“隐藏”元素的几种方法的对比|css|
-[7个你可能不认识的CSS单位](https://github.com/limeng0403/libs/blob/master/EOF/7%E4%B8%AA%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E7%9A%84CSS%E5%8D%95%E4%BD%8D.md)|7个你可能不认识的CSS单|css|
-[5个经典的前端面试问题](https://github.com/limeng0403/libs/blob/master/EOF/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)|5个经典的前端面试问题|javascript css|
-[30行代码实现JavaScript中的MVC](https://github.com/limeng0403/libs/blob/master/EOF/30%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0JavaScript%E4%B8%AD%E7%9A%84MVC.md)|30行代码实现JavaScript中的MVC|javascript|
-[200个纯CSS3写的图标 支持复制代码](https://github.com/limeng0403/libs/blob/master/EOF/200%E4%B8%AA%E7%BA%AFCSS3%E5%86%99%E7%9A%84%E5%9B%BE%E6%A0%87%20%E6%94%AF%E6%8C%81%E5%A4%8D%E5%88%B6%E4%BB%A3%E7%A0%81.md)|200个纯CSS3写的图标|css|
-[12种不宜使用的Javascript语法](https://github.com/limeng0403/libs/blob/master/EOF/12%E7%A7%8D%E4%B8%8D%E5%AE%9C%E4%BD%BF%E7%94%A8%E7%9A%84Javascript%E8%AF%AD%E6%B3%95.md)|12种不宜使用的Javascript语法|javascript|
-[12个CSS高级技巧汇总](https://github.com/limeng0403/libs/blob/master/EOF/12%E4%B8%AACSS%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7%E6%B1%87%E6%80%BB.md)|12个CSS高级技巧汇总|css|
+[使用ajax和history.pushState无刷新改变页面URL](EOF/使用ajax和history.pushState无刷新改变页面URL.md)|ajax技巧|javascript
+[人人必知的10个jQuery小技巧](EOF/人人必知的10个jQuery小技巧.md)|jQuery技巧|jQuery
+[prop和attr的区别](EOF/prop和attr的区别.md)|jQuery中的prop和attr的区别|jQuery
+[nodejs+express](EOF/nodejs+express.md)|nodejs的express框架搭建|nodejs express
+[javascript深入理解js闭包](EOF/javascript深入理解js闭包.md)|闭包|javascript
+[jQueryMobile笔记](EOF/jQueryMobile笔记.md)|jQueryMobile笔记|jQueryMobile
+[jQuery animate scrollTop not working in IE 7](EOF/jQuery animate scrollTop not working in IE 7.md)|jQuery锚点滚动在IE下无作用的处理方案|jQuery
+[getJSON在PHP环境下实现跨域数据加载](EOF/getJSON在PHP环境下实现跨域数据加载.md)|getJSON在PHP环境下实现跨域数据加载|javascript php
+[expressjs 4.x增加对上传文件获取的支持](EOF/expressjs 4.x增加对上传文件获取的支持.md)|expressjs 4.x增加对上传文件获取的支持|nodejs express
+[Unslider较完美支持bootstrap 3.3.0样式方案](EOF/Unslider较完美支持bootstrap 3.3.0样式方案.md)|Unslider较完美支持bootstrap 3.3.0样式方案|bootstrap
+[Nodejs模板引擎关联扩展名](EOF/Nodejs模板引擎关联扩展名.md)|Nodejs模板引擎关联扩展名|nodejs
+[Nodejs学习笔记3——基础路由的实现](EOF/Nodejs学习笔记3——基础路由的实现.md)|Nodejs学习笔记3——基础路由的实现|nodejs
+[Nodejs学习笔记2——文件上传](EOF/Nodejs学习笔记2——文件上传.md)|Nodejs学习笔记2——文件上传|nodejs
+[Nodejs学习笔记1——socket.io模块、url模块](EOF/Nodejs学习笔记1——socket.io模块、url模块.md)|socket.io模块、url模块|nodejs
+[JavaScript总结几个提高性能知识点](EOF/JavaScript总结几个提高性能知识点.md)|JavaScript总结几个提高性能知识点|javascript
+[HTML5可互动的可视化图表js插件库](EOF/HTML5可互动的可视化图表js插件库.md)|HTML5可互动的可视化图表js插件库|javascript html5
+[CSS“隐藏”元素的几种方法的对比](EOF/CSS“隐藏”元素的几种方法的对比.md)|CSS“隐藏”元素的几种方法的对比|css
+[7个你可能不认识的CSS单位](EOF/7个你可能不认识的CSS单位.md)|7个你可能不认识的CSS单|css
+[5个经典的前端面试问题](EOF/5个经典的前端面试问题.md)|5个经典的前端面试问题|javascript css
+[30行代码实现JavaScript中的MVC](EOF/30行代码实现JavaScript中的MVC.md)|30行代码实现JavaScript中的MVC|javascript
+[200个纯CSS3写的图标 支持复制代码](EOF/200个纯CSS3写的图标 支持复制代码.md)|200个纯CSS3写的图标|css
+[12种不宜使用的Javascript语法](EOF/12种不宜使用的Javascript语法.md)|12种不宜使用的Javascript语法|javascript
+[12个CSS高级技巧汇总](EOF/12个CSS高级技巧汇总.md)|12个CSS高级技巧汇总|css
 
 ###PHP
 
