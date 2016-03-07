@@ -2,49 +2,49 @@
 
 ###前端开发
 
-标题|摘要|标签
-:---|:---|:---
-[Angularjs轻松实现表格按指定列排序](EOF/Angularjs轻松实现表格按指定列排序.md)|表格按指定列排序|Angularjs
-[使用JSON.Stringify](EOF/使用JSON.Stringify.md)|JSON.Stringify|javascript json
-[了解Javascript传值机制](EOF/了解Javascript传值机制.md)|Javascript传值机制|javascript
-[Array.prototype.reduce函数](EOF/Array.prototype.reduce函数.md)|数组累加器|javascript
-[AngularJS知识点2-ng-show,ng-hide,ng-switch](EOF/AngularJS知识点2.md)|ng-show,ng-hide,ng-switch|Angularjs
-[AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](EOF/AngularJS知识点1.md)|ng-repeat,ng-class-odd,ng-class-even|Angularjs
-[重写js中的window.alert函数](EOF/重写js中的window.alert函数.md)|使用bs框架中的模态框替换原生的对话框|javascript bootstrap
-[轻量级Modal模态框插件cta.js](EOF/轻量级Modal模态框插件cta.js.md)|模态框插件|javascript
+标题|标签
+:---|:---
+[Angularjs轻松实现表格按指定列排序](EOF/Angularjs轻松实现表格按指定列排序.md)|Angularjs
+[使用JSON.Stringify](EOF/使用JSON.Stringify.md)|javascript json
+[了解Javascript传值机制](EOF/了解Javascript传值机制.md)|javascript
+[Array.prototype.reduce函数](EOF/Array.prototype.reduce函数.md)|javascript
+[AngularJS知识点2-ng-show,ng-hide,ng-switch](EOF/AngularJS知识点2.md)Angularjs
+[AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](EOF/AngularJS知识点1.md)|Angularjs
+[重写js中的window.alert函数](EOF/重写js中的window.alert函数.md)|javascript bootstrap
+[轻量级Modal模态框插件cta.js](EOF/轻量级Modal模态框插件cta.js.md)|javascript
 [记一次淘宝首页奇葩的渲染问题](EOF/记一次淘宝首页奇葩的渲染问题.md)|css页面问题|css
-[解决IE下a标签点击有虚线边框的问题](EOF/解决IE下a标签点击有虚线边框的问题.md)|a标签点击有虚线边框|css
-[网页字体设置你了解吗](EOF/网页字体设置你了解吗.md)|网页字体设置|web-design
-[突袭HTML5](EOF/突袭HTML5.md)|html5大纲|html5
-[界面切换 jQuery 插件：Animate Transition](EOF/界面切换 jQuery 插件：Animate Transition.md)|jQuery插件|jQuery-plug
-[深入理解HTML5标签](EOF/深入理解HTML5标签.md)|深入理解HTML5标签|html5
-[开发者必须知道的HTML5十五大新特性](EOF/开发者必须知道的HTML5十五大新特性.md)|HTML5十五大新特性|html5
-[前端开发指南](EOF/前端开发指南.md)|前端开发技巧|javascript
-[切片式图片切换效果](EOF/切片式图片切换效果.md)|自己写的多图片切换效果|javascript css
-[减少HTTP请求(大型网站优化技术)](EOF/减少HTTP请求(大型网站优化技术).md)|网站优化方案|web-other
-[使用ajax和history.pushState无刷新改变页面URL](EOF/使用ajax和history.pushState无刷新改变页面URL.md)|ajax技巧|javascript
-[人人必知的10个jQuery小技巧](EOF/人人必知的10个jQuery小技巧.md)|jQuery技巧|jQuery
-[prop和attr的区别](EOF/prop和attr的区别.md)|jQuery中的prop和attr的区别|jQuery
-[nodejs+express](EOF/nodejs+express.md)|nodejs的express框架搭建|nodejs express
-[javascript深入理解js闭包](EOF/javascript深入理解js闭包.md)|闭包|javascript
-[jQueryMobile笔记](EOF/jQueryMobile笔记.md)|jQueryMobile笔记|jQueryMobile
-[jQuery animate scrollTop not working in IE 7](EOF/jQuery animate scrollTop not working in IE 7.md)|jQuery锚点滚动在IE下无作用的处理方案|jQuery
-[getJSON在PHP环境下实现跨域数据加载](EOF/getJSON在PHP环境下实现跨域数据加载.md)|getJSON在PHP环境下实现跨域数据加载|javascript php
-[expressjs 4.x增加对上传文件获取的支持](EOF/expressjs 4.x增加对上传文件获取的支持.md)|expressjs 4.x增加对上传文件获取的支持|nodejs express
-[Unslider较完美支持bootstrap 3.3.0样式方案](EOF/Unslider较完美支持bootstrap 3.3.0样式方案.md)|Unslider较完美支持bootstrap 3.3.0样式方案|bootstrap
-[Nodejs模板引擎关联扩展名](EOF/Nodejs模板引擎关联扩展名.md)|Nodejs模板引擎关联扩展名|nodejs
-[Nodejs学习笔记3——基础路由的实现](EOF/Nodejs学习笔记3——基础路由的实现.md)|Nodejs学习笔记3——基础路由的实现|nodejs
-[Nodejs学习笔记2——文件上传](EOF/Nodejs学习笔记2——文件上传.md)|Nodejs学习笔记2——文件上传|nodejs
-[Nodejs学习笔记1——socket.io模块、url模块](EOF/Nodejs学习笔记1——socket.io模块、url模块.md)|socket.io模块、url模块|nodejs
-[JavaScript总结几个提高性能知识点](EOF/JavaScript总结几个提高性能知识点.md)|JavaScript总结几个提高性能知识点|javascript
-[HTML5可互动的可视化图表js插件库](EOF/HTML5可互动的可视化图表js插件库.md)|HTML5可互动的可视化图表js插件库|javascript html5
-[CSS“隐藏”元素的几种方法的对比](EOF/CSS“隐藏”元素的几种方法的对比.md)|CSS“隐藏”元素的几种方法的对比|css
-[7个你可能不认识的CSS单位](EOF/7个你可能不认识的CSS单位.md)|7个你可能不认识的CSS单|css
-[5个经典的前端面试问题](EOF/5个经典的前端面试问题.md)|5个经典的前端面试问题|javascript css
-[30行代码实现JavaScript中的MVC](EOF/30行代码实现JavaScript中的MVC.md)|30行代码实现JavaScript中的MVC|javascript
-[200个纯CSS3写的图标 支持复制代码](EOF/200个纯CSS3写的图标 支持复制代码.md)|200个纯CSS3写的图标|css
-[12种不宜使用的Javascript语法](EOF/12种不宜使用的Javascript语法.md)|12种不宜使用的Javascript语法|javascript
-[12个CSS高级技巧汇总](EOF/12个CSS高级技巧汇总.md)|12个CSS高级技巧汇总|css
+[解决IE下a标签点击有虚线边框的问题](EOF/解决IE下a标签点击有虚线边框的问题.md)|css
+[网页字体设置你了解吗](EOF/网页字体设置你了解吗.md)|web-design
+[突袭HTML5](EOF/突袭HTML5.md)|html5
+[界面切换 jQuery 插件：Animate Transition](EOF/界面切换 jQuery 插件：Animate Transition.md)|jQuery-plug
+[深入理解HTML5标签](EOF/深入理解HTML5标签.md)|html5
+[开发者必须知道的HTML5十五大新特性](EOF/开发者必须知道的HTML5十五大新特性.md)|html5
+[前端开发指南](EOF/前端开发指南.md)|javascript
+[切片式图片切换效果](EOF/切片式图片切换效果.md)|javascript css
+[减少HTTP请求(大型网站优化技术)](EOF/减少HTTP请求(大型网站优化技术).md)|web-other
+[使用ajax和history.pushState无刷新改变页面URL](EOF/使用ajax和history.pushState无刷新改变页面URL.md)|javascript
+[人人必知的10个jQuery小技巧](EOF/人人必知的10个jQuery小技巧.md)|jQuery
+[prop和attr的区别](EOF/prop和attr的区别.md)|jQuery
+[nodejs+express](EOF/nodejs+express.md)|nodejs express
+[javascript深入理解js闭包](EOF/javascript深入理解js闭包.md)|javascript
+[jQueryMobile笔记](EOF/jQueryMobile笔记.md)|jQueryMobile
+[jQuery animate scrollTop not working in IE 7](EOF/jQuery animate scrollTop not working in IE 7.md)|jQuery
+[getJSON在PHP环境下实现跨域数据加载](EOF/getJSON在PHP环境下实现跨域数据加载.md)|javascript php
+[expressjs 4.x增加对上传文件获取的支持](EOF/expressjs 4.x增加对上传文件获取的支持.md)|nodejs express
+[Unslider较完美支持bootstrap 3.3.0样式方案](EOF/Unslider较完美支持bootstrap 3.3.0样式方案.md)|bootstrap
+[Nodejs模板引擎关联扩展名](EOF/Nodejs模板引擎关联扩展名.md)|nodejs
+[Nodejs学习笔记3——基础路由的实现](EOF/Nodejs学习笔记3——基础路由的实现.md)|nodejs
+[Nodejs学习笔记2——文件上传](EOF/Nodejs学习笔记2——文件上传.md)|nodejs
+[Nodejs学习笔记1——socket.io模块、url模块](EOF/Nodejs学习笔记1——socket.io模块、url模块.md)|nodejs
+[JavaScript总结几个提高性能知识点](EOF/JavaScript总结几个提高性能知识点.md)|javascript
+[HTML5可互动的可视化图表js插件库](EOF/HTML5可互动的可视化图表js插件库.md)|javascript html5
+[CSS“隐藏”元素的几种方法的对比](EOF/CSS“隐藏”元素的几种方法的对比.md)|css
+[7个你可能不认识的CSS单位](EOF/7个你可能不认识的CSS单位.md)|css
+[5个经典的前端面试问题](EOF/5个经典的前端面试问题.md)|javascript css
+[30行代码实现JavaScript中的MVC](EOF/30行代码实现JavaScript中的MVC.md)|javascript
+[200个纯CSS3写的图标 支持复制代码](EOF/200个纯CSS3写的图标 支持复制代码.md)|css
+[12种不宜使用的Javascript语法](EOF/12种不宜使用的Javascript语法.md)|javascript
+[12个CSS高级技巧汇总](EOF/12个CSS高级技巧汇总.md)|css
 
 ###PHP
 
