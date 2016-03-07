@@ -12,7 +12,7 @@
 [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](EOF/AngularJS知识点1.md)|Angularjs
 [重写js中的window.alert函数](EOF/重写js中的window.alert函数.md)|javascript bootstrap
 [轻量级Modal模态框插件cta.js](EOF/轻量级Modal模态框插件cta.js.md)|javascript
-[记一次淘宝首页奇葩的渲染问题](EOF/记一次淘宝首页奇葩的渲染问题.md)|css页面问题|css
+[记一次淘宝首页奇葩的渲染问题](EOF/记一次淘宝首页奇葩的渲染问题.md)|css
 [解决IE下a标签点击有虚线边框的问题](EOF/解决IE下a标签点击有虚线边框的问题.md)|css
 [网页字体设置你了解吗](EOF/网页字体设置你了解吗.md)|web-design
 [突袭HTML5](EOF/突袭HTML5.md)|html5
