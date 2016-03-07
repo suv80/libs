@@ -21,7 +21,7 @@
 [开发者必须知道的HTML5十五大新特性](EOF/开发者必须知道的HTML5十五大新特性.md)|html5
 [前端开发指南](EOF/前端开发指南.md)|javascript
 [切片式图片切换效果](EOF/切片式图片切换效果.md)|javascript css
-[减少HTTP请求(大型网站优化技术)](EOF/减少HTTP请求(大型网站优化技术).md)|web-other
+[减少HTTP请求（大型网站优化技术）](EOF/减少HTTP请求（大型网站优化技术）.md)|web-other
 [使用ajax和history.pushState无刷新改变页面URL](EOF/使用ajax和history.pushState无刷新改变页面URL.md)|javascript
 [人人必知的10个jQuery小技巧](EOF/人人必知的10个jQuery小技巧.md)|jQuery
 [prop和attr的区别](EOF/prop和attr的区别.md)|jQuery
