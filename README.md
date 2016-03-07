@@ -67,8 +67,8 @@
 
 标题|标签|
 :---|:---|:---|
-[mongodb3.03开启认证][d2]|mongodb|
-[mongoDB设置数据库并启动][d1]|mongodb|
+[mongodb3.03开启认证][d2]|mongodb
+[mongoDB设置数据库并启动][d1]|mongodb
 
 [d2]:Database/mongodb3.03开启认证.md
 [d1]:Database/mongoDB设置数据库并启动.md
