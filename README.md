@@ -77,29 +77,17 @@
 
 标题|标签
 :---|:---
-[让ubuntu 终端显示英文提示，而桌面环境显示中文的方法][l11]|linux ubuntu
-[解决g++command not found][l10]|linux centos gcc
-[安装VirtualBox增强功能（命令行）][l9]|vbox
-[使用git pull文件时和本地文件冲突怎么办？][l8]|git
-[使用Git时，怎么忽略不想上传的文件][l7]|git
-[linux下查看和添加PATH环境变量][l6]|linux
-[linux 下如何启动SVN服务][l5]|linux svn
-[SVN的Hooks功能——强制添加注释][l4]|linux svn
-[Mac中自定义文件夹中文名][l3]|macos
-[How can i use iptables on centos 7][l2]|linux
-[CentOS6.6升级gcc4.8教程][l1]|linux centos gcc
-
-[l11]:Linux/让ubuntu 终端显示英文提示，而桌面环境显示中文的方法.md
-[l10]:Linux/解决g++command not found.md
-[l9]:Linux/安装VirtualBox增强功能（命令行）.md
-[l8]:Linux/使用git pull文件时和本地文件冲突怎么办？.md
-[l7]:Linux/使用Git时，怎么忽略不想上传的文件.md
-[l6]:Linux/linux下查看和添加PATH环境变量.md
-[l5]:Linux/linux 下如何启动SVN服务.md
-[l4]:Linux/SVN的Hooks功能——强制添加注释.md
-[l3]:Linux/Mac中自定义文件夹中文名.md
-[l2]:Linux/How can i use iptables on centos 7.md
-[l1]:Linux/CentOS6.6升级gcc4.8教程.md
+[让ubuntu 终端显示英文提示，而桌面环境显示中文的方法](Linux/让ubuntu 终端显示英文提示，而桌面环境显示中文的方法.md)|linux ubuntu
+[解决g++command not found](Linux/解决g++command not found.md)|linux centos gcc
+[安装VirtualBox增强功能（命令行）](Linux/安装VirtualBox增强功能（命令行）.md)|vbox
+[使用git pull文件时和本地文件冲突怎么办？](Linux/使用git pull文件时和本地文件冲突怎么办？.md)|git
+[使用Git时，怎么忽略不想上传的文件](Linux/使用Git时，怎么忽略不想上传的文件.md)|git
+[linux下查看和添加PATH环境变量](Linux/linux下查看和添加PATH环境变量.md)|linux
+[linux 下如何启动SVN服务](Linux/linux 下如何启动SVN服务.md)|linux svn
+[SVN的Hooks功能——强制添加注释](Linux/SVN的Hooks功能——强制添加注释.md)|linux svn
+[Mac中自定义文件夹中文名](Linux/Mac中自定义文件夹中文名.md)|macos
+[How can i use iptables on centos 7](Linux/How can i use iptables on centos 7.md)|linux
+[CentOS6.6升级gcc4.8教程](Linux/CentOS6.6升级gcc4.8教程.md)|linux centos gcc
 
 ###网络文摘
 
