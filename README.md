@@ -4,6 +4,7 @@
 
 标题|标签
 :---|:---
+[使用QUnit进行JavaScript单元测试](EOF/使用QUnit进行JavaScript单元测试.md)|javascript QUnit
 [Angularjs轻松实现表格按指定列排序](EOF/Angularjs轻松实现表格按指定列排序.md)|Angularjs
 [使用JSON.Stringify](EOF/使用JSON.Stringify.md)|javascript json
 [了解Javascript传值机制](EOF/了解Javascript传值机制.md)|javascript
