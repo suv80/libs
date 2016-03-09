@@ -1,1 +1,1 @@
-[link](http://baidu.com){target='_blank'}
+[link](http://baidu.com){target="_blank"}
