@@ -1,2 +1,2 @@
 <a href="http://baidu.com" target="_blank">baidu.com</a>
-<iframe></iframe>
+<iframe src="http://baidu.com" width="100%" height="400"></iframe>
