@@ -1,1 +1,1 @@
-[link](http://baidu.com){:target="_blank"}
+<a href="http://baidu.com" target="_blank">baidu.com</a>
