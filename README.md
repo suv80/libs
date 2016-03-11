@@ -79,6 +79,7 @@
 
 标题|标签
 :---|:---
+[Git详解之Git分支](Linux/Git详解之Git分支.md)|linux git
 [让ubuntu 终端显示英文提示，而桌面环境显示中文的方法](Linux/让ubuntu 终端显示英文提示，而桌面环境显示中文的方法.md)|linux ubuntu
 [解决g++command not found](Linux/解决g++command not found.md)|linux centos gcc
 [安装VirtualBox增强功能（命令行）](Linux/安装VirtualBox增强功能（命令行）.md)|vbox
