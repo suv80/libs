@@ -80,7 +80,7 @@
 
 标题|标签
 :---|:---
-[如何正确配置Nginx+PHP.md](Linux/如何正确配置Nginx+PHP.md)|nginx php
+[如何正确配置Nginx+PHP](Linux/如何正确配置Nginx+PHP.md)|nginx php
 [Git详解之Git分支](Linux/Git详解之Git分支.md)|linux git
 [让ubuntu 终端显示英文提示，而桌面环境显示中文的方法](Linux/让ubuntu 终端显示英文提示，而桌面环境显示中文的方法.md)|linux ubuntu
 [解决g++command not found](Linux/解决g++command not found.md)|linux centos gcc
