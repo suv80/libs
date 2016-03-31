@@ -4,6 +4,7 @@
 
 标题|标签
 :---|:---
+[AngularJS开发人员最常犯的10个错误](FED/AngularJS开发人员最常犯的10个错误.md)|angularjs
 [详解Javascript的继承实现](FED/详解Javascript的继承实现.md)|javascript
 [简单监听DOM事件](FED/简单监听DOM事件.md)|javascript
 [Web前端面试题目及答案汇总](FED/Web前端面试题目及答案汇总.md)|html css javascript
