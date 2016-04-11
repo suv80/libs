@@ -4,6 +4,7 @@
 
 标题|标签
 :---|:---
+[从本质认识JavaScript的原型继承和类继承](FED/从本质认识JavaScript的原型继承和类继承.md)|javascript
 [AngularJS开发人员最常犯的10个错误](FED/AngularJS开发人员最常犯的10个错误.md)|angularjs
 [详解Javascript的继承实现](FED/详解Javascript的继承实现.md)|javascript
 [简单监听DOM事件](FED/简单监听DOM事件.md)|javascript
@@ -56,6 +57,7 @@
 
 标题|标签
 :---|:---
+[HTTP Header详解](PHP/HTTP Header详解.md)|php header
 [40+个对初学者非常有用的PHP技巧](PHP/40+个对初学者非常有用的PHP技巧.md)|php
 [超级有用的9个PHP代码片段](PHP/超级有用的9个PHP代码片段.md)|php
 [跨域文件上传解决方案](PHP/跨域文件上传解决方案.md)|php
