@@ -4,7 +4,9 @@
 
 标题|标签
 :---|:---
-[jQuery.each()的5个案例.md](FED/jQuery.each()的5个案例.md)|jquery
+[善用meta](FED/善用meta.md)|html
+[viewport详解](FED/viewport详解.md)|html
+[jQuery.each()的5个案例](FED/jQuery.each()的5个案例.md)|jquery
 [从本质认识JavaScript的原型继承和类继承](FED/从本质认识JavaScript的原型继承和类继承.md)|javascript
 [AngularJS开发人员最常犯的10个错误](FED/AngularJS开发人员最常犯的10个错误.md)|angularjs
 [详解Javascript的继承实现](FED/详解Javascript的继承实现.md)|javascript
