@@ -4,6 +4,8 @@
 
 标题|标签
 :---|:---
+[new的返回值](FED/new的返回值.md)|javascript
+[取得文件扩展名](FED/取得文件扩展名.md)|javascript
 [善用meta](FED/善用meta.md)|html
 [viewport详解](FED/viewport详解.md)|html
 [jQuery.each()的5个案例](FED/jQuery.each()的5个案例.md)|jquery
