@@ -1,4 +1,4 @@
-“尽管 JavaScript 总是让人产生误解，但是它已经成为了最流行的编程语言之一。理解 JavaScript 的内在原理很困难。同样的，迫使 JavaScript 成为常规规范，如面向对象或函数编程，同样具有挑战性。这里我强调阐明 JavaScript 核心部分的原生函数。
+尽管 JavaScript 总是让人产生误解，但是它已经成为了最流行的编程语言之一。理解 JavaScript 的内在原理很困难。同样的，迫使 JavaScript 成为常规规范，如面向对象或函数编程，同样具有挑战性。这里我强调阐明 JavaScript 核心部分的原生函数。
 
 在这篇文章中，我将讨论以下几种行为：
 
@@ -15,49 +15,30 @@
 
 JavaScript 的作用域是基于函数而言的，术语一般称为作用域，变量和方法的作用域都是当前函数。此外，函数执行的作用域是他们被定义的作用域而不是执行的作用域。如果你想了解更多有关于作用域的知识，可以参考你应该知道的4种 JavaScript 设计模式这篇文章。this对象引用当前函数的上下文并且可以以多种方式被调用。例如，它可以被绑定到 window 对象（全局作用域）。
 
-
-
 ```javascript
 this.globalVar = {
-
     myGlobalVarsMethod: function (){
-
         // Implementation
-
     }
-
 };
 
 console.log(this.globalVar); // { myGlobalVarsMethod: [Function] }
 ```
 
-
-
 并且变量可以绑定到已存在的函数中，如下：
 
 ```javascript
 this.globalVariable = 'globalVariable';
-
 function globalFunction (){
-
     this.innerVariable = 'innerVariable';
-
     console.log(this.globalVariable === undefined); // false
-
     console.log(this.innerVariable === 'innerVariable'); // true
-
     return {
-
         innerFunction: function () {
-
             console.log(this.globalVariable === undefined); // true
-
             console.log(this.innerVariable === undefined); // true
-
         }
-
     }
-
 }
 
 globalFunction().innerFunction();
@@ -67,31 +48,20 @@ globalFunction().innerFunction();
 
 ```javascript
 this.globalVar = 'globalVar';
-
 function nonStrictFunctionTest () {
-
     return function () {
-
         console.log(this.globalVar); // globalVar
-
     }
-
 }
 
 function strictFunctionTest () {
-
     'use strict'; // Strict Mode
-
     return function () {
-
         console.log(this.globalVar); // TypeError: Cannot read property 'globalVar' of undefined
-
     }
-
 }
 
 nonStrictFunctionTest()();
-
 strictFunctionTest()();
 ```
 
@@ -101,21 +71,14 @@ strictFunctionTest()();
 
 如下列出的一些参数对象：
 
-```
+```javascript
 function fn (){
-
     console.log(typeof arguments); // [object Object]
-
     console.log(arguments[0]); // DeathStar
-
     console.log(arguments[1]); // Tatooine
-
     arguments.push("Naboo"); // TypeError: undefined is not a function
-
     var arguments = "Star Wars";
-
     console.log(arguments[5]); // W
-
 }
 
 fn("DeathStar", "Tatooine");
@@ -125,7 +88,6 @@ fn("DeathStar", "Tatooine");
 
 ```javascript
 var args = Array.prototype.slice.call(arguments);
-
 Call/Apply
 ```
 
@@ -135,7 +97,6 @@ Mozilla 浏览器的apply和call调用声明如下所示：
 
 ```javascript
 fun.apply(thisArg, [argsArray])
-
 fun.call(thisArg[, arg1[, arg2[, ...]]])
 ```
 
@@ -143,25 +104,17 @@ fun.call(thisArg[, arg1[, arg2[, ...]]])
 
 ```javascript
 this.lightSaberColor = 'none';
-
 var darthVader = {
-
     team: 'Empire',
-
     lightSaberColor: 'Red'
-
 };
 
 var printLightSaberColor = function(){
-
     console.log(this.lightSaberColor);
-
 }
 
 printLightSaberColor() // none
-
 printLightSaberColor.call(darthVader); // Red
-
 printLightSaberColor.apply(darthVader); // Red
 ```
 
@@ -173,41 +126,26 @@ Currying(柯里化)(部分函数应用)是应用 call 和 apply 的一个函数�
 
 ```javascript
 var curry = function(fun) {
-
   // nothing to curry. return function
-
   if (arguments.length < 1) {
-
     return this;
-
   }
 
   // Create an array with the functions arguments
-
   var args = Array.prototype.slice.call(arguments, 1);
-
   return function() {
-
     // Apply fn with fn's arguments
-
     return fun.apply(this, args.concat(Array.prototype.slice.call(arguments, 0)));
-
   };
-
 };
 
 // Creating function that already predefines adding 1 to a
-
 function addOneToNumber(a) {
-
     console.log(1 + a);
-
 }
 
 // addOneCurried is of function
-
 var addOneCurried = curry(addOneToNumber);
-
 console.log(addOneCurried(10)); // 11
 ```
 
@@ -227,23 +165,16 @@ fun.bind(thisArg[, arg1[, arg2[, ...]]])
 
 ```javascript
 var lukeSkywalker = {
-
     mother: 'Padme Amidala',
-
     father: 'Anakin Skywalker'.
-
 }
 
 var getFather = function(){
-
     console.log(this.father);
-
 }
 
 getFather(); // undefined
-
 getFather.bind(lukeSkywalker)(); // Anakin Skywalker
-
 getFather(lukeSkywalker); // undefined
 ```
 
@@ -253,15 +184,10 @@ getFather(lukeSkywalker); // undefined
 
 ```javascript
 Function.prototype.bind = function(scope) {
-
   var _that = this;
-
   return function() {
-
     return _that.apply(scope, arguments);
-
   }
-
 }
 ```
 
@@ -283,47 +209,29 @@ arr.map(callback[, thisArg])
 
 ````javascript
 function Jedi(name) {
-
     this.name = name;
-
 }
 
 var kit = new Jedi('Kit');
-
 var count = new Jedi('Count');
-
 var mace = new Jedi('Mace');
-
 var jedis = [kit, count, mace];
-
 var lastNames = ['Fisto', 'Dooku', 'Windu'];
-
 var jedisWithFullNames = jedis.map(function(currentValue, index, array) {
-
     var clonedJedi = (JSON.parse(JSON.stringify(currentValue))) // Clone currentValue
-
     clonedJedi.name = currentValue.name + " " + lastNames[index];
-
     return clonedJedi;
-
 });
 
 jedisWithFullNames.map(function(currentValue) {
-
     console.log(currentValue.name);
-
 });
 
 /**
-
 Output:
-
 Kit Fisto
-
 Count Dooku
-
 Mace Windu
-
 */
 ````
 
@@ -331,25 +239,17 @@ Mace Windu
 
 ```javascript
 Array.prototype.map = function (fun, thisArg) {
-
     if(typeof fun !== 'function') {
-
         throw new Error("The first argument must be of type function");
-
     }
-
+  
     var arr = [];
-
     thisArg = (thisArg) ? thisArg : this;
-
     thisArg.forEach(function(element) {
-
         arr[arr.length] = fun.call(thisArgs, element);
-
     });
 
     return arr;
-
 }
 ```
 
@@ -373,39 +273,25 @@ arr.filter(callback[, thisArg])
 
 ```javascript
 function Person(name, side) {
-
     this.name = name;
-
     this.side = side;
-
 }
 
 var hanSolo = new Person('Han Solo','Rebels');
-
 var bobaFett = new Person('Boba Fett','Empire');
-
 var princessLeia = new Person('Princess Leia', 'Rebels');
-
 var people = [hanSolo, bobaFett, princessLeia];
-
 var enemies = people.filter(function (currentValue, index, array) {
-
     return currentValue.side === 'Empire';
-
 })
 
 .map(function(currentValue) {
-
     console.log(currentValue.name + " fights for the " + currentValue.side + ".");
-
 });
 
 /**
-
 Output:
-
 Boba Fett fights for the Empire.
-
 */
 ```
 
@@ -415,29 +301,19 @@ Boba Fett fights for the Empire.
 
 ```javascript
 Array.prototype.filter = function(fun, thisArg) {
-
     if(typeof fun !== 'function') {
-
         throw new Error("The first argument must be of type function");
-
     }
 
     var arr = [];
-
     thisArg = (thisArg) ? thisArg : this;
-
     thisArg.forEach(function(element) {
-
       if (fun.call(thisArg, element)) {
-
         arr[arr.length] = element;
-
       }
-
     });
 
     return arr;
-
 };
 ```
 
