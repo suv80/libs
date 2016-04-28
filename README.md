@@ -4,6 +4,8 @@
 
 | 标题                                       | 标签                   |
 | :--------------------------------------- | :------------------- |
+| [移动网页开发总结](FED/移动网页开发总结.md)              | html                 |
+| [学习并运用JavaScript的原生函数](FED/学习并运用JavaScript的原生函数.md) | javascript           |
 | [webpack入门指南](FED/webpack入门指南.md)        | javascript           |
 | [new的返回值](FED/new的返回值.md)                | javascript           |
 | [取得文件扩展名](FED/取得文件扩展名.md)                | javascript           |
