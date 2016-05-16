@@ -4,6 +4,7 @@
 
 | 标题                                       | 标签                   |
 | :--------------------------------------- | :------------------- |
+| [12个非常有用的JavaScript技巧](FED/12个非常有用的JavaScript技巧.md) | jquery               |
 | [移动网页开发总结](FED/移动网页开发总结.md)              | html                 |
 | [学习并运用JavaScript的原生函数](FED/学习并运用JavaScript的原生函数.md) | javascript           |
 | [webpack入门指南](FED/webpack入门指南.md)        | javascript           |
