@@ -2,65 +2,66 @@
 
 ###前端开发
 
-| 标题                                       | 标签                   |
-| :--------------------------------------- | :------------------- |
-| [12个非常有用的JavaScript技巧](FED/12个非常有用的JavaScript技巧.md) | jquery               |
-| [移动网页开发总结](FED/移动网页开发总结.md)              | html                 |
-| [学习并运用JavaScript的原生函数](FED/学习并运用JavaScript的原生函数.md) | javascript           |
-| [webpack入门指南](FED/webpack入门指南.md)        | javascript           |
-| [new的返回值](FED/new的返回值.md)                | javascript           |
-| [取得文件扩展名](FED/取得文件扩展名.md)                | javascript           |
-| [善用meta](FED/善用meta.md)                  | html                 |
-| [viewport详解](FED/viewport详解.md)          | html                 |
-| [jQuery.each()的5个案例](FED/jQuery.each()的5个案例.md) | jquery               |
-| [从本质认识JavaScript的原型继承和类继承](FED/从本质认识JavaScript的原型继承和类继承.md) | javascript           |
-| [AngularJS开发人员最常犯的10个错误](FED/AngularJS开发人员最常犯的10个错误.md) | angularjs            |
-| [详解Javascript的继承实现](FED/详解Javascript的继承实现.md) | javascript           |
-| [简单监听DOM事件](FED/简单监听DOM事件.md)            | javascript           |
-| [Web前端面试题目及答案汇总](FED/Web前端面试题目及答案汇总.md)  | html css javascript  |
-| [使用Flexbox的六个理由](FED/使用Flexbox的六个理由.md)  | css3 flexbox         |
-| [使用QUnit进行JavaScript单元测试](FED/使用QUnit进行JavaScript单元测试.md) | javascript QUnit     |
-| [Angularjs轻松实现表格按指定列排序](FED/Angularjs轻松实现表格按指定列排序.md) | Angularjs            |
-| [使用JSON.Stringify](FED/使用JSON.Stringify.md) | javascript json      |
-| [了解Javascript传值机制](FED/了解Javascript传值机制.md) | javascript           |
-| [Array.prototype.reduce函数](FED/Array.prototype.reduce函数.md) | javascript           |
-| [AngularJS知识点2-ng-show,ng-hide,ng-switch](FED/AngularJS知识点2.md) | Angularjs            |
-| [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](FED/AngularJS知识点1.md) | Angularjs            |
-| [重写js中的window.alert函数](FED/重写js中的window.alert函数.md) | javascript bootstrap |
-| [轻量级Modal模态框插件cta.js](FED/轻量级Modal模态框插件cta.js.md) | javascript           |
-| [记一次淘宝首页奇葩的渲染问题](FED/记一次淘宝首页奇葩的渲染问题.md)  | css                  |
-| [解决IE下a标签点击有虚线边框的问题](FED/解决IE下a标签点击有虚线边框的问题.md) | css                  |
-| [网页字体设置你了解吗](FED/网页字体设置你了解吗.md)          | web-design           |
-| [突袭HTML5](FED/突袭HTML5.md)                | html5                |
-| [界面切换 jQuery 插件：Animate Transition](FED/界面切换 jQuery 插件：Animate Transition.md) | jQuery-plug          |
-| [深入理解HTML5标签](FED/深入理解HTML5标签.md)        | html5                |
-| [开发者必须知道的HTML5十五大新特性](FED/开发者必须知道的HTML5十五大新特性.md) | html5                |
-| [前端开发指南](FED/前端开发指南.md)                  | javascript           |
-| [切片式图片切换效果](FED/切片式图片切换效果.md)            | javascript css       |
-| [减少HTTP请求（大型网站优化技术）](FED/减少HTTP请求（大型网站优化技术）.md) | web-other            |
-| [使用ajax和history.pushState无刷新改变页面URL](FED/使用ajax和history.pushState无刷新改变页面URL.md) | javascript           |
-| [人人必知的10个jQuery小技巧](FED/人人必知的10个jQuery小技巧.md) | jQuery               |
-| [prop和attr的区别](FED/prop和attr的区别.md)      | jQuery               |
-| [nodejs+express](FED/nodejs+express.md)  | nodejs express       |
-| [javascript深入理解js闭包](FED/javascript深入理解js闭包.md) | javascript           |
-| [jQueryMobile笔记](FED/jQueryMobile笔记.md)  | jQueryMobile         |
-| [jQuery animate scrollTop not working in IE 7](FED/jQuery animate scrollTop not working in IE 7.md) | jQuery               |
-| [getJSON在PHP环境下实现跨域数据加载](FED/getJSON在PHP环境下实现跨域数据加载.md) | javascript php       |
-| [expressjs 4.x增加对上传文件获取的支持](FED/expressjs 4.x增加对上传文件获取的支持.md) | nodejs express       |
-| [Unslider较完美支持bootstrap 3.3.0样式方案](FED/Unslider较完美支持bootstrap 3.3.0样式方案.md) | bootstrap            |
-| [Nodejs模板引擎关联扩展名](FED/Nodejs模板引擎关联扩展名.md) | nodejs               |
-| [Nodejs学习笔记3——基础路由的实现](FED/Nodejs学习笔记3——基础路由的实现.md) | nodejs               |
-| [Nodejs学习笔记2——文件上传](FED/Nodejs学习笔记2——文件上传.md) | nodejs               |
-| [Nodejs学习笔记1——socket.io模块、url模块](FED/Nodejs学习笔记1——socket.io模块、url模块.md) | nodejs               |
-| [JavaScript总结几个提高性能知识点](FED/JavaScript总结几个提高性能知识点.md) | javascript           |
-| [HTML5可互动的可视化图表js插件库](FED/HTML5可互动的可视化图表js插件库.md) | javascript html5     |
-| [CSS“隐藏”元素的几种方法的对比](FED/CSS“隐藏”元素的几种方法的对比.md) | css                  |
-| [7个你可能不认识的CSS单位](FED/7个你可能不认识的CSS单位.md)  | css                  |
-| [5个经典的前端面试问题](FED/5个经典的前端面试问题.md)        | javascript css       |
-| [30行代码实现JavaScript中的MVC](FED/30行代码实现JavaScript中的MVC.md) | javascript           |
-| [200个纯CSS3写的图标 支持复制代码](FED/200个纯CSS3写的图标 支持复制代码.md) | css                  |
-| [12种不宜使用的Javascript语法](FED/12种不宜使用的Javascript语法.md) | javascript           |
-| [12个CSS高级技巧汇总](FED/12个CSS高级技巧汇总.md)      | css                  |
+| 标题                                       | 标签                    |
+| :--------------------------------------- | :-------------------- |
+| [CSS vs JS动画：谁更快？](FED/CSS vs JS动画：谁更快？.md) | javascript jquery css |
+| [12个非常有用的JavaScript技巧](FED/12个非常有用的JavaScript技巧.md) | jquery                |
+| [移动网页开发总结](FED/移动网页开发总结.md)              | html                  |
+| [学习并运用JavaScript的原生函数](FED/学习并运用JavaScript的原生函数.md) | javascript            |
+| [webpack入门指南](FED/webpack入门指南.md)        | javascript            |
+| [new的返回值](FED/new的返回值.md)                | javascript            |
+| [取得文件扩展名](FED/取得文件扩展名.md)                | javascript            |
+| [善用meta](FED/善用meta.md)                  | html                  |
+| [viewport详解](FED/viewport详解.md)          | html                  |
+| [jQuery.each()的5个案例](FED/jQuery.each()的5个案例.md) | jquery                |
+| [从本质认识JavaScript的原型继承和类继承](FED/从本质认识JavaScript的原型继承和类继承.md) | javascript            |
+| [AngularJS开发人员最常犯的10个错误](FED/AngularJS开发人员最常犯的10个错误.md) | angularjs             |
+| [详解Javascript的继承实现](FED/详解Javascript的继承实现.md) | javascript            |
+| [简单监听DOM事件](FED/简单监听DOM事件.md)            | javascript            |
+| [Web前端面试题目及答案汇总](FED/Web前端面试题目及答案汇总.md)  | html css javascript   |
+| [使用Flexbox的六个理由](FED/使用Flexbox的六个理由.md)  | css3 flexbox          |
+| [使用QUnit进行JavaScript单元测试](FED/使用QUnit进行JavaScript单元测试.md) | javascript QUnit      |
+| [Angularjs轻松实现表格按指定列排序](FED/Angularjs轻松实现表格按指定列排序.md) | Angularjs             |
+| [使用JSON.Stringify](FED/使用JSON.Stringify.md) | javascript json       |
+| [了解Javascript传值机制](FED/了解Javascript传值机制.md) | javascript            |
+| [Array.prototype.reduce函数](FED/Array.prototype.reduce函数.md) | javascript            |
+| [AngularJS知识点2-ng-show,ng-hide,ng-switch](FED/AngularJS知识点2.md) | Angularjs             |
+| [AngularJS知识点1-ng-repeat,ng-class-odd,ng-class-even](FED/AngularJS知识点1.md) | Angularjs             |
+| [重写js中的window.alert函数](FED/重写js中的window.alert函数.md) | javascript bootstrap  |
+| [轻量级Modal模态框插件cta.js](FED/轻量级Modal模态框插件cta.js.md) | javascript            |
+| [记一次淘宝首页奇葩的渲染问题](FED/记一次淘宝首页奇葩的渲染问题.md)  | css                   |
+| [解决IE下a标签点击有虚线边框的问题](FED/解决IE下a标签点击有虚线边框的问题.md) | css                   |
+| [网页字体设置你了解吗](FED/网页字体设置你了解吗.md)          | web-design            |
+| [突袭HTML5](FED/突袭HTML5.md)                | html5                 |
+| [界面切换 jQuery 插件：Animate Transition](FED/界面切换 jQuery 插件：Animate Transition.md) | jQuery-plug           |
+| [深入理解HTML5标签](FED/深入理解HTML5标签.md)        | html5                 |
+| [开发者必须知道的HTML5十五大新特性](FED/开发者必须知道的HTML5十五大新特性.md) | html5                 |
+| [前端开发指南](FED/前端开发指南.md)                  | javascript            |
+| [切片式图片切换效果](FED/切片式图片切换效果.md)            | javascript css        |
+| [减少HTTP请求（大型网站优化技术）](FED/减少HTTP请求（大型网站优化技术）.md) | web-other             |
+| [使用ajax和history.pushState无刷新改变页面URL](FED/使用ajax和history.pushState无刷新改变页面URL.md) | javascript            |
+| [人人必知的10个jQuery小技巧](FED/人人必知的10个jQuery小技巧.md) | jQuery                |
+| [prop和attr的区别](FED/prop和attr的区别.md)      | jQuery                |
+| [nodejs+express](FED/nodejs+express.md)  | nodejs express        |
+| [javascript深入理解js闭包](FED/javascript深入理解js闭包.md) | javascript            |
+| [jQueryMobile笔记](FED/jQueryMobile笔记.md)  | jQueryMobile          |
+| [jQuery animate scrollTop not working in IE 7](FED/jQuery animate scrollTop not working in IE 7.md) | jQuery                |
+| [getJSON在PHP环境下实现跨域数据加载](FED/getJSON在PHP环境下实现跨域数据加载.md) | javascript php        |
+| [expressjs 4.x增加对上传文件获取的支持](FED/expressjs 4.x增加对上传文件获取的支持.md) | nodejs express        |
+| [Unslider较完美支持bootstrap 3.3.0样式方案](FED/Unslider较完美支持bootstrap 3.3.0样式方案.md) | bootstrap             |
+| [Nodejs模板引擎关联扩展名](FED/Nodejs模板引擎关联扩展名.md) | nodejs                |
+| [Nodejs学习笔记3——基础路由的实现](FED/Nodejs学习笔记3——基础路由的实现.md) | nodejs                |
+| [Nodejs学习笔记2——文件上传](FED/Nodejs学习笔记2——文件上传.md) | nodejs                |
+| [Nodejs学习笔记1——socket.io模块、url模块](FED/Nodejs学习笔记1——socket.io模块、url模块.md) | nodejs                |
+| [JavaScript总结几个提高性能知识点](FED/JavaScript总结几个提高性能知识点.md) | javascript            |
+| [HTML5可互动的可视化图表js插件库](FED/HTML5可互动的可视化图表js插件库.md) | javascript html5      |
+| [CSS“隐藏”元素的几种方法的对比](FED/CSS“隐藏”元素的几种方法的对比.md) | css                   |
+| [7个你可能不认识的CSS单位](FED/7个你可能不认识的CSS单位.md)  | css                   |
+| [5个经典的前端面试问题](FED/5个经典的前端面试问题.md)        | javascript css        |
+| [30行代码实现JavaScript中的MVC](FED/30行代码实现JavaScript中的MVC.md) | javascript            |
+| [200个纯CSS3写的图标 支持复制代码](FED/200个纯CSS3写的图标 支持复制代码.md) | css                   |
+| [12种不宜使用的Javascript语法](FED/12种不宜使用的Javascript语法.md) | javascript            |
+| [12个CSS高级技巧汇总](FED/12个CSS高级技巧汇总.md)      | css                   |
 
 ###PHP
 
