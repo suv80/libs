@@ -63,7 +63,7 @@
 | [12种不宜使用的Javascript语法](FED/12种不宜使用的Javascript语法.md) | javascript            |
 | [12个CSS高级技巧汇总](FED/12个CSS高级技巧汇总.md)      | css                   |
 
-###PHP
+### PHP
 
 | 标题                                       | 标签         |
 | :--------------------------------------- | :--------- |
@@ -83,7 +83,7 @@
 | [CI框架去除index.php的方法（apache）](PHP/CI框架去除index.php的方法（apache）.md) | php ci     |
 
 
-###数据库
+### 数据库
 
 | 标题                    | 标签      |      |
 | :-------------------- | :------ | :--- |
@@ -93,7 +93,7 @@
 [d2]: Database/mongodb3.03开启认证.md
 [d1]: Database/mongoDB设置数据库并启动.md
 
-###Linux
+### Linux
 
 | 标题                                       | 标签               |
 | :--------------------------------------- | :--------------- |
@@ -111,7 +111,7 @@
 | [How can i use iptables on centos 7](Linux/How can i use iptables on centos 7.md) | linux            |
 | [CentOS6.6升级gcc4.8教程](Linux/CentOS6.6升级gcc4.8教程.md) | linux centos gcc |
 
-###网络文摘
+### 网络文摘
 
 | 标题                   | 标签     |
 | :------------------- | :----- |
