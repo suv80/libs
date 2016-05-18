@@ -1,9 +1,15 @@
+---
+title: 【Angularjs文档翻译及实例】DOM事件
+tags: [javascript,angularjs]
+date: 2015/04/20
+---
+
 把Angularjs当中涉及DOM事件的属性整理一下，此文档是基于1.4.8英文文档整理的。
 
->约定：
-此文中ngXxx表示ng-xxx属性名。
+> 约定：
+> 此文中ngXxx表示ng-xxx属性名。
 
-###ngBlur
+### ngBlur
 
 **用法**
 
@@ -16,11 +22,11 @@
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngBlur|expression|表达式将在失去焦点时被触发（事件对象与$event一样可获得）|
+| 参数     | 类型         | 详情                              |      |
+| :----- | :--------- | :------------------------------ | ---- |
+| ngBlur | expression | 表达式将在失去焦点时被触发（事件对象与$event一样可获得） |      |
 
-###ngFocus
+### ngFocus
 
 **用法**
 
@@ -33,11 +39,11 @@ ngBlur|expression|表达式将在失去焦点时被触发（事件对象与$even
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngFocus|expression|表达在获得焦点时被触发（事件对象与$event一样可获得）|
+| 参数      | 类型         | 详情                            |      |
+| :------ | :--------- | :---------------------------- | ---- |
+| ngFocus | expression | 表达在获得焦点时被触发（事件对象与$event一样可获得） |      |
 
-###ngChange
+### ngChange
 
 **用法**
 
@@ -50,11 +56,11 @@ ngFocus|expression|表达在获得焦点时被触发（事件对象与$event一�
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngChange|expression|表达式将在input控件被改变时触发|
+| 参数       | 类型         | 详情                 |      |
+| :------- | :--------- | :----------------- | ---- |
+| ngChange | expression | 表达式将在input控件被改变时触发 |      |
 
-###ngChecked
+### ngChecked
 
 **用法**
 
@@ -67,11 +73,11 @@ ngChange|expression|表达式将在input控件被改变时触发|
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngChecked|expression|如果表达式为真，那么就会在元素上设置checked属性|
+| 参数        | 类型         | 详情                          |      |
+| :-------- | :--------- | :-------------------------- | ---- |
+| ngChecked | expression | 如果表达式为真，那么就会在元素上设置checked属性 |      |
 
-###ngClick
+### ngClick
 
 **用法**
 
@@ -84,14 +90,14 @@ ngChecked|expression|如果表达式为真，那么就会在元素上设置check
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngClick|expression|当被点击的时候触发表达式（事件对象与$event一样可获得）|
+| 参数      | 类型         | 详情                             |      |
+| :------ | :--------- | :----------------------------- | ---- |
+| ngClick | expression | 当被点击的时候触发表达式（事件对象与$event一样可获得） |      |
 
 
 
 
-###ngKeydown/ngKeypress/ngKeyup
+### ngKeydown/ngKeypress/ngKeyup
 
 **用法**
 
@@ -112,13 +118,13 @@ ngClick|expression|当被点击的时候触发表达式（事件对象与$event�
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngKeydown|expression|表达式在按键按下时被触发（事件对象与$event一样可获得，并且可以查询keyCode, altKey等）|
-ngKeypress|expression|表达式在按键按下时被触发（事件对象与$event一样可获得，并且可以查询keyCode, altKey等）|
-ngKeyup|expression|表达式在按键释放时被触发（事件对象与$event一样可获得，并且可以查询keyCode, altKey等）|
+| 参数         | 类型         | 详情                                       |      |
+| :--------- | :--------- | :--------------------------------------- | ---- |
+| ngKeydown  | expression | 表达式在按键按下时被触发（事件对象与$event一样可获得，并且可以查询keyCode, altKey等） |      |
+| ngKeypress | expression | 表达式在按键按下时被触发（事件对象与$event一样可获得，并且可以查询keyCode, altKey等） |      |
+| ngKeyup    | expression | 表达式在按键释放时被触发（事件对象与$event一样可获得，并且可以查询keyCode, altKey等） |      |
 
-###ngMousedown/ngMouseup
+### ngMousedown/ngMouseup
 
 **用法**
 
@@ -135,12 +141,12 @@ ngKeyup|expression|表达式在按键释放时被触发（事件对象与$event�
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngMousedown|expression|表达式在鼠标按下时被触发（事件对象与$event一样可获得）|
-ngMouseup|expression|表达式在鼠标释放时被触发（事件对象与$event一样可获得）|
+| 参数          | 类型         | 详情                             |      |
+| :---------- | :--------- | :----------------------------- | ---- |
+| ngMousedown | expression | 表达式在鼠标按下时被触发（事件对象与$event一样可获得） |      |
+| ngMouseup   | expression | 表达式在鼠标释放时被触发（事件对象与$event一样可获得） |      |
 
-###ngMouseenter/ngMousemove
+### ngMouseenter/ngMousemove
 
 **用法**
 
@@ -157,12 +163,12 @@ ngMouseup|expression|表达式在鼠标释放时被触发（事件对象与$even
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngMouseenter|expression|表达式在鼠标进入元素时被触发（事件对象与$event一样可获得）|
-ngMousemove|expression|表达式在鼠标在元素上移动时被触发（事件对象与$event一样可获得）|
+| 参数           | 类型         | 详情                                 |      |
+| :----------- | :--------- | :--------------------------------- | ---- |
+| ngMouseenter | expression | 表达式在鼠标进入元素时被触发（事件对象与$event一样可获得）   |      |
+| ngMousemove  | expression | 表达式在鼠标在元素上移动时被触发（事件对象与$event一样可获得） |      |
 
-###ngMouseover/ngMouseleave
+### ngMouseover/ngMouseleave
 
 **用法**
 
@@ -179,12 +185,12 @@ ngMousemove|expression|表达式在鼠标在元素上移动时被触发（事件
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngMouseover|expression|表达式在鼠标穿过元素时被触发（事件对象与$event一样可获得）|
-ngMouseleave|expression|表达式在鼠标离开时被触发（事件对象与$event一样可获得）|
+| 参数           | 类型         | 详情                               |      |
+| :----------- | :--------- | :------------------------------- | ---- |
+| ngMouseover  | expression | 表达式在鼠标穿过元素时被触发（事件对象与$event一样可获得） |      |
+| ngMouseleave | expression | 表达式在鼠标离开时被触发（事件对象与$event一样可获得）   |      |
 
-###ngSelected
+### ngSelected
 
 **用法**
 
@@ -197,11 +203,11 @@ ngMouseleave|expression|表达式在鼠标离开时被触发（事件对象与$e
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngSelected|expression|表达式为真时，selected属性将被设置在元素上。|
+| 参数         | 类型         | 详情                         |      |
+| :--------- | :--------- | :------------------------- | ---- |
+| ngSelected | expression | 表达式为真时，selected属性将被设置在元素上。 |      |
 
-###ngSubmit
+### ngSubmit
 
 **用法**
 
@@ -214,12 +220,12 @@ ngSelected|expression|表达式为真时，selected属性将被设置在元素�
 
 **参数**
 
-参数|类型|详情|
-:--|:--|:--|
-ngSubmit|expression|提交表单时，表达式被触发（事件对象与$event一样可获得）|	
+| 参数       | 类型         | 详情                             |      |
+| :------- | :--------- | :----------------------------- | ---- |
+| ngSubmit | expression | 提交表单时，表达式被触发（事件对象与$event一样可获得） |      |
 
 
-###综合实例
+### 综合实例
 
 **html代码**
 

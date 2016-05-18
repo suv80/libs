@@ -1,3 +1,9 @@
+---
+title: Angularjs轻松实现表格按指定列排序
+tags: [javascript,angularjs]
+date: 2016/05/18
+---
+
 使用Angularjs的过滤器，可以很容易的实现在表格中，点击某一列标题进行排序，实现过程如下：
 
 html代码：

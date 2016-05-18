@@ -1,3 +1,9 @@
+---
+title: AngularJS开发人员最常犯的10个错误
+tags: [javascript,angularjs]
+date: 2016/04/17
+---
+
 ### 简介
 
 AngularJS是目前最为活跃的Javascript框架之一，AngularJS的目标之一是简化开发过程，这使得AngularJS非常善于构建小型app原型，但AngularJS对于全功能的客户端应用程序同样强大，它结合了开发简便，特性广泛和出众的性能，使其被广泛使用。然而，大量使用也会产生诸多误区。以下这份列表摘取了常见的一些AngularJS的错误用法，尤其是在app开发过程中。
