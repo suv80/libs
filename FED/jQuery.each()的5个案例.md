@@ -1,3 +1,9 @@
+---
+title: jQuery.each()的5个案例
+tags: [jquery]
+date: 2016/04/04
+---
+
 本文将对 jQuery each() 函数作一个比较全面的介绍。 each() 函数是 jQuery 中最重要也是最常用的函数之一。通过本文你将明白为什么 each() 函数如此大放异彩，同时还将详细介绍如何使用 each() 函数。
 
 ### 什么是 jQuery .each()

@@ -1,4 +1,10 @@
-###page
+---
+title: jQueryMobile笔记
+tags: [jquery]
+date: 2016/04/03
+---
+
+### page
 
 //页面打开后展现形式
 data-rel="dialog"
@@ -16,7 +22,7 @@ data-back-btn-text="后退"
 <a href="second_page.html" data-rel="dialog" data-prefetch="true" data-transition="slidefade">切换到第二个视图</a>
 ```
 
-###button
+### button
 
 //定义元素为按钮
 data-role="button"
