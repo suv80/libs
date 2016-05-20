@@ -1,4 +1,10 @@
-###-module/view.m.js
+---
+title: Nodejs学习笔记3——基础路由的实现
+tags: [nodejs]
+date: 2016/02/07
+---
+
+### module/view.m.js
 >为模板加载模块。参数：file:模板名称；data:模板数据；callback(err,html):回调函数，html为数据加载后的网页内容。
 
 ```
@@ -31,7 +37,7 @@ function view(file,data,callback){
 module.exports=view;
 ```
 
-###-module/core.m.js
+### module/core.m.js
 >框架核心文件。现在只有路由功能。
 
 ```
@@ -83,13 +89,13 @@ module.exports=function(req,res){
 }
 ```
 
-###-template/
+### template/
 >模板目录
 
-###-controll/
+### controll/
 >控制器目录。
 
-###-controll/index.c.js
+### controll/index.c.js
 >默认控制器。访问网站时默认加载的控制器。
 
 ```
@@ -112,7 +118,7 @@ module.exports=new controll();
 
 ```
 
->控制器说明：以localhost:8080/index/index/index.html为例
+> 控制器说明：以localhost:8080/index/index/index.html为例
 
 1. 路径部分的第一位为控制器名，第二位为控制器中的方法名，第三位之后为参数，会以key-value的JSON对象形式按一定顺序（见第3条）传给方法。
 2. 控制器中的方法会默认传三个参数，第一个第二个为http.createServer中的requrest与response对象，第三个为参数JSON对象。

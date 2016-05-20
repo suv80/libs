@@ -1,3 +1,9 @@
+---
+title: Nodejs模板引擎关联扩展名
+tages: [nodejs]
+date: 2016/02/04
+---
+
 engine注册模板引擎的函数，处理指定的后缀名文件。
 
 ```
@@ -7,4 +13,4 @@ app.set( 'view engine', 'html' );
 app.engine( '.html', require( 'ejs' ).__express );
 ```
 
->"__express"，ejs模块的一个公共属性，表示要渲染的文件扩展名。
+> "__express"，ejs模块的一个公共属性，表示要渲染的文件扩展名。

@@ -1,3 +1,9 @@
+---
+title: Nodejs学习笔记2——文件上传
+tages: [nodejs]
+date: 2016/02/06
+---
+
 使用的模块：
 
 + http

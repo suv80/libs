@@ -1,22 +1,28 @@
+---
+title: nodejs+express
+tages: [nodejs]
+date: 2016/02/02
+---
+
 准备用nodejs开发一个blog，没想有后台，只是想学习一下nodejs，而且我还有服务器。
 
 不知道这个项目能开发多久，希望不会半途而废。
 
 用自己零碎的时间，开发完整的项目。
 
-###一、nodejs的安装
+### 一、nodejs的安装
 
 去官网看一下<a href="http://nodejs.org" target="_blank">http://nodejs.org</a>
 
-###二、npm的安装
+### 二、npm的安装
 
 下载最新版本的nodejs自带npm
 
-###三、express的安装
+### 三、express的安装
 
 npm install express
 
-###四、blog项目的建立
+### 四、blog项目的建立
 
 服务器新建一个blog文件夹，之后初始化express blog项目
 
@@ -37,7 +43,7 @@ npm install express
 #npm install
 ```
 
-###五、增速开发
+### 五、增速开发
 
 由于node命令不会识别文件是否修改而且重启，所以，需要使用supervison工具，安装方式
 

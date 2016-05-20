@@ -1,8 +1,14 @@
-###socket.io
+---
+title: Nodejs学习笔记1——socket.io模块、url模块
+tages: [nodejs]
+date: 2016/02/05
+---
+
+### socket.io
 
 >该模块主要应用于实时的长连接多请求项目中，例如在线联网游戏、实时聊天、实时股票查看、二维扫描登录等。
 
-***Server:***
+**Server:**
 
 ```
 var io = require('socket.io').listen(3000);
@@ -15,7 +21,7 @@ io.sockets.on('connection', function(socket){
 });
 ```
 
-***Client:***
+**Client:**
 
 ```
 <h3>is running!</h3>
@@ -61,11 +67,11 @@ io.sockets.on('connection', function(socket){
 	</script>
 ```
 
-###url
+### url
 
 >解释url的模块。
 
-###querystring
+### querystring
 
 >转换地址参数格式的模块。
 
@@ -89,9 +95,10 @@ http.createServer(function(req,res){
 console.log('is running: localhost:1737');
 ```
 
-###POST请求
+### POST请求
 
 >Node.js为了使整个过程非阻塞，会将POST数据拆分成很多小的数据块，然后通过触发特定的事件，将这些小数据块有序传递给加调函数。
+
 
 >这部分涉及request对象中的addListener方法，该方法有两个事件参数data和end，data表示数据传输开始，end表示数据传输结束。
 
