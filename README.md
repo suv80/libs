@@ -97,6 +97,7 @@
 
 | 标题                                       | 标签               |
 | :--------------------------------------- | :--------------- |
+| [在Ubuntu上安装PPTP的VPN服务](Linux/在Ubuntu上安装PPTP的VPN服务.md) | linux pptp       |
 | [如何正确配置Nginx+PHP](Linux/如何正确配置Nginx+PHP.md) | nginx php        |
 | [Git详解之Git分支](Linux/Git详解之Git分支.md)      | linux git        |
 | [让ubuntu 终端显示英文提示，而桌面环境显示中文的方法](Linux/让ubuntu 终端显示英文提示，而桌面环境显示中文的方法.md) | linux ubuntu     |
