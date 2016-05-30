@@ -4,6 +4,7 @@
 
 | 标题                                       | 标签                    |
 | :--------------------------------------- | :-------------------- |
+| [使用ES6写更好的JavaScript](使用ES6写更好的JavaScript.md) | javascript es6        |
 | [CSS vs JS动画：谁更快？](FED/CSS vs JS动画：谁更快？.md) | javascript jquery css |
 | [12个非常有用的JavaScript技巧](FED/12个非常有用的JavaScript技巧.md) | jquery                |
 | [移动网页开发总结](FED/移动网页开发总结.md)              | html                  |
