@@ -4,6 +4,8 @@
 
 | 标题                                       | 标签                    |
 | :--------------------------------------- | :-------------------- |
+| [GET和POST有什么区别？及为什么网上多数答案都是错的](FED/GET和POST有什么区别？及为什么网上多数答案都是错的.md) | http                  |
+| [别人家的面试题：统计“1”的个数](FED/别人家的面试题：统计“1”的个数.md) | javascript            |
 | [使用ES6写更好的JavaScript](使用ES6写更好的JavaScript.md) | javascript es6        |
 | [CSS vs JS动画：谁更快？](FED/CSS vs JS动画：谁更快？.md) | javascript jquery css |
 | [12个非常有用的JavaScript技巧](FED/12个非常有用的JavaScript技巧.md) | jquery                |
@@ -98,6 +100,7 @@
 
 | 标题                                       | 标签               |
 | :--------------------------------------- | :--------------- |
+| [修改ubuntu DNS的步骤](Linux/修改ubuntu DNS的步骤.md) | linux dns        |
 | [在Ubuntu上安装PPTP的VPN服务](Linux/在Ubuntu上安装PPTP的VPN服务.md) | linux pptp       |
 | [如何正确配置Nginx+PHP](Linux/如何正确配置Nginx+PHP.md) | nginx php        |
 | [Git详解之Git分支](Linux/Git详解之Git分支.md)      | linux git        |
