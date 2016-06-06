@@ -1,12 +1,18 @@
+---
+title: 使用ajax和history.pushState无刷新改变页面URL
+tags: [javascript,ajax]
+date: 2015/02/04
+---
+
 如果你使用chrome或者firefox等浏览器访问本博客、github.com、plus.google.com等网站时，细心的你会发现页面之间的点击是通过ajax异步请求的，同时页面的URL发生了了改变。并且能够很好的支持浏览器前进和后退。
 
 是什么有这么强大的功能呢？
 
-###表现
+### 表现
 
 HTML5里引用了新的API，history.pushState和history.replaceState，就是通过这个接口做到无刷新改变页面URL的。
 
-###与传统的AJAX的区别
+### 与传统的AJAX的区别
 
 传统的ajax有如下的问题：
 
@@ -28,7 +34,7 @@ HTML5里引用了新的API，history.pushState和history.replaceState，就是�
 
 pushState是将指定的URL添加到浏览器历史里，replaceState是将指定的URL替换当前的URL。
 
-###如何使用
+### 如何使用
 
 ```
 var state = {
@@ -43,7 +49,7 @@ state对象除了要title和url之外，你也可以添加其他的数据，比�
 
 replaceState和pushState是相似的，这里就不多介绍了。
 
-###如何响应浏览器的前进、后退操作
+### 如何响应浏览器的前进、后退操作
 
 window对象上提供了onpopstate事件，上面传递的state对象会成为event的子对象，这样就可以拿到存储的title和URL了。
 
@@ -58,13 +64,13 @@ window.addEventListener('popstate', function(e){
 
 这样就可以结合ajax和pushState完美的进行无刷新浏览了。
 
-###一些限制
+### 一些限制
 
 1、传递的URL必须是同域下的，无法跨域
 
 2、state对象虽然可以存储很多自定义的属性，但对于不可序列化的对象则不能存储，如：DOM对象。
 
-###对应后端的一些处理
+### 对应后端的一些处理
 
 这种模式下除了当前使用ajax可以无刷新浏览外，还要保证直接请求改变的URL后也可以正常浏览，所以后端要对这些处理下。
 

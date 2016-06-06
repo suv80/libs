@@ -1,3 +1,9 @@
+---
+title: 使用JSON.Stringify
+tags: [javascript,json]
+date: 2015/02/01
+---
+
 加入有一个对象具有参数"prop1", "prop2", "prop3"。 我们可以通过传递 附加参数 给 JSON.stringify 来选择性将参数生成字符串，像这样：
 
 ```

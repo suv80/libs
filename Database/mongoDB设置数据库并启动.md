@@ -1,3 +1,9 @@
+---
+title: mongoDB设置数据库并启动
+tags: [database,mongodb]
+date: 2015/09/18
+---
+
 ```
 $ mongod --dbpath blog/data
 ```

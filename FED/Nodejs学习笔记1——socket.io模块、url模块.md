@@ -1,6 +1,6 @@
 ---
 title: Nodejs学习笔记1——socket.io模块、url模块
-tages: [nodejs]
+tags: [nodejs]
 date: 2016/02/05
 ---
 
@@ -98,6 +98,7 @@ console.log('is running: localhost:1737');
 ### POST请求
 
 >Node.js为了使整个过程非阻塞，会将POST数据拆分成很多小的数据块，然后通过触发特定的事件，将这些小数据块有序传递给加调函数。
+
 
 
 >这部分涉及request对象中的addListener方法，该方法有两个事件参数data和end，data表示数据传输开始，end表示数据传输结束。

@@ -1,3 +1,9 @@
+---
+title: Unslider较完美支持bootstrap 3.3.0样式方案
+tags: [css]
+date: 2015/05/21
+---
+
 效果图：
 
 ![效果图](http://limeng.u.qiniudn.com/wp_220_01.png)

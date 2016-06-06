@@ -1,3 +1,9 @@
+---
+title: expressjs 4.x增加对上传文件获取的支持
+tags: [nodejs,express]
+date: 2015/2/20
+---
+
 expressjs 4.x与3.x有着很大的不同，百度上搜索的方法都是3.x的，所以，只能看文档解决问题。
 
 文档中对req.body有如下代码示例：

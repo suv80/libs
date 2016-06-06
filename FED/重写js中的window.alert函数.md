@@ -1,3 +1,9 @@
+---
+title: 重写js中的window.alert函数
+tags: [javascript]
+date: 2015/01/24
+---
+
 使用了bootstrap框架，所以要引入bootstrap框架。
 
 ```
@@ -41,4 +47,3 @@ window.alert = function (msg, title, callback) {
     }).modal('show');
 }
 ```
- 

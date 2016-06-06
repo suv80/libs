@@ -1,3 +1,9 @@
+---
+title: mongodb3.03开启认证
+tags: [database,mongodb]
+date: 2015/07/18  
+---
+
 下载了最新mongodb3.03版本，当使用--auth 参数命令行开启mongodb用户认证时遇到很多问题，现总结如下：
 
 （百度上搜到的基本都是老版本的，看到db.addUser的就是，请忽略） 

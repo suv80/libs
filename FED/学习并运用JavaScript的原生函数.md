@@ -1,3 +1,9 @@
+---
+title: 学习并运用JavaScript的原生函数
+tags: [javascript]
+date: 2015/01/27
+---
+
 尽管 JavaScript 总是让人产生误解，但是它已经成为了最流行的编程语言之一。理解 JavaScript 的内在原理很困难。同样的，迫使 JavaScript 成为常规规范，如面向对象或函数编程，同样具有挑战性。这里我强调阐明 JavaScript 核心部分的原生函数。
 
 在这篇文章中，我将讨论以下几种行为：

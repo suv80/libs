@@ -1,3 +1,9 @@
+---
+title: 简单监听DOM事件
+tags: [javascript]
+date: 2015/02/17
+---
+
 很多人还在这样做：
 
 ```

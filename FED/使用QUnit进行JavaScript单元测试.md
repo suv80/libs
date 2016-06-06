@@ -1,13 +1,19 @@
-###简介
+---
+title: 使用QUnit进行JavaScript单元测试
+tags: [javascript,jquery,qunit]
+date: 2015/01/31
+---
+
+### 简介
 
 QUnit是一个强大的JavaScript单元测试框架。他可用于jQuery，jQuery UI和jQuery Mobile项目，以及任何使用JavaScript代码编写的项目的测试。
 
-###运行环境
+### 运行环境
 
 + 任何Html和JavaScript编辑器（Visual Studio 2013）
 + 从QUnit官方下载reference js和css文件
 
-###加入QUnit到单元测试
+### 加入QUnit到单元测试
 
 添加QUnit.js和QUnit.css到你要测试的HTML页面中。
 
@@ -16,7 +22,7 @@ QUnit是一个强大的JavaScript单元测试框架。他可用于jQuery，jQuer
 <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-1.22.0.css">
 ```
 
-###创建需要进行单元测试的JavaScript类
+### 创建需要进行单元测试的JavaScript类
 
 将要进行单元测试的代码放到一个单独的js文件中（Calculations.js）：
 
@@ -45,7 +51,7 @@ Calculation.prototype.Division = function (a, b) {
 };
 ```
 
-###为上面的方法创建一个单元测试用例
+### 为上面的方法创建一个单元测试用例
 
 下面的代码就是上面JavaScript方法的单元测试用例，我们同样将它放到单独的一个js文件中（UnitTest.js）：
 
@@ -73,7 +79,7 @@ QUnit.test("Multiplication Test", function (assert) {
 });
 ```
 
-###在HTML代码中引用所有的js和css文件
+###  在HTML代码中引用所有的js和css文件
 
 在HTML代码中分别创建一个id为qunit、qunit-fixture的div标记。
 

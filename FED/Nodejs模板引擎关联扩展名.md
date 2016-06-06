@@ -1,6 +1,6 @@
 ---
 title: Nodejs模板引擎关联扩展名
-tages: [nodejs]
+tags: [nodejs]
 date: 2016/02/04
 ---
 

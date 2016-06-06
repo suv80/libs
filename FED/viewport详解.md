@@ -1,4 +1,10 @@
-## 前言
+---
+title: viewport详解
+tags: [css]
+date: 2015/04/11
+---
+
+### 前言
 
 这次想聊聊移动开发相关的事。是的，你没有看错，一句话就可以开始你的移动前端开发。
 
@@ -6,7 +12,7 @@
 
 但其实它一点也不新奇，不复杂。
 
-## viewport简介
+### viewport简介
 
 没错，就是viewport特性，一个移动专属的Meta值，用于定义视口的各种行为。
 
@@ -57,14 +63,14 @@ Apple也发现了这个问题，并且适时的出现，它提出了一个方案
 
 通常情况下，viewport有以下6种设置。当然厂商可能会增加一些特定的设置，比如iOS Safari7.1增加了一种在网页加载时隐藏地址栏与导航栏的设置：minimal-ui，不过随后又将之移除了。
 
-Name|Value|Description
-:----|:----|:----
-width|正整数或device-width|定义视口的宽度，单位为像素
-height正整数或device-height|定义视口的高度，单位为像素
-initial-scale|[0.0-10.0]|定义初始缩放值
-minimum-scale|[0.0-10.0]|定义缩小最小比例，它必须小于或等于maximum-scale设置
-maximum-scale|[0.0-10.0]|定义放大最大比例，它必须大于或等于minimum-scale设置
-user-scalable|yes/no|定义是否允许用户手动缩放页面，默认值yes
+| Name                    | Value            | Description                      |
+| :---------------------- | :--------------- | :------------------------------- |
+| width                   | 正整数或device-width | 定义视口的宽度，单位为像素                    |
+| height正整数或device-height | 定义视口的高度，单位为像素    |                                  |
+| initial-scale           | [0.0-10.0]       | 定义初始缩放值                          |
+| minimum-scale           | [0.0-10.0]       | 定义缩小最小比例，它必须小于或等于maximum-scale设置 |
+| maximum-scale           | [0.0-10.0]       | 定义放大最大比例，它必须大于或等于minimum-scale设置 |
+| user-scalable           | yes/no           | 定义是否允许用户手动缩放页面，默认值yes            |
 
 **width**
 
@@ -132,7 +138,7 @@ maximum-scale用于指定用户能够放大的比例。
 <meta name="viewport" content="user-scalable=no" />
 ```
 
-## 结语
+### 结语
 
 正如开篇所说，这既不高深也不新奇，它而仅仅是一点观念转变。
 

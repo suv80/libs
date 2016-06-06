@@ -1,3 +1,9 @@
+---
+title: 突袭HTML5
+tags: [html,html5]
+date: 2015/01/30
+---
+
 [简述HTML5特性](http://www.cnblogs.com/dxy1982/archive/2012/03/23/2400291.html)
 
 [HTML5中的多线程](http://www.cnblogs.com/dxy1982/archive/2012/08/06/2359202.html)

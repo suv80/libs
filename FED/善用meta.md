@@ -1,3 +1,9 @@
+---
+title: 善用meta
+tags: [html]
+date: 2015/02/06
+---
+
 ## 前言
 
 在移动前端第一弹：viewport详解中，我们讲了viewport，那是一个关于meta的故事。这次我们会就将meta这个故事讲得更广阔、更有意思一些。
@@ -132,7 +138,7 @@ x-ua-compatible设置是从IE8开始增加的（很明显，只适用于IE），
 
 ```
 <meta name="robots" content="index" />
- ```
+```
 
 通知搜索引擎文档是否需要被索引。可选值有：
 

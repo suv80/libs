@@ -1,3 +1,9 @@
+---
+title: javascript深入理解js闭包
+tags: [javascript]
+date: 2015/05/11
+---
+
 ###一、变量的作用域
 
 要理解闭包，首先必须理解Javascript特殊的变量作用域。
