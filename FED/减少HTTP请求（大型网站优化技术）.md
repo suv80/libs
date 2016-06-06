@@ -1,5 +1,5 @@
 ---
-title: 记一次淘宝首页奇葩的渲染问题
+title: 减少HTTP请求（大型网站优化技术）
 tags: [html,php]
 date: 2015/07/13
 ---
