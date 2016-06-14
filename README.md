@@ -100,6 +100,7 @@
 
 | 标题                                       | 标签               |
 | :--------------------------------------- | :--------------- |
+| [使用nginx搭建https服务器](Linux/使用nginx搭建https服务器.md) | linux nginx ssl  |
 | [修改ubuntu DNS的步骤](Linux/修改ubuntu DNS的步骤.md) | linux dns        |
 | [在Ubuntu上安装PPTP的VPN服务](Linux/在Ubuntu上安装PPTP的VPN服务.md) | linux pptp       |
 | [如何正确配置Nginx+PHP](Linux/如何正确配置Nginx+PHP.md) | nginx php        |
